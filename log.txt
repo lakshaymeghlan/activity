@@ -1,2 +1,3 @@
 2025-01-03T11:19:00 Remove dead code
 2025-01-03T15:20:00 Batch DB writes
+2025-01-03T16:54:00 Add retry to API client
