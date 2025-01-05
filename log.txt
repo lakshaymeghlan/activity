@@ -3,3 +3,4 @@
 2025-01-03T16:54:00 Add retry to API client
 2025-01-05T11:41:00 Handle empty-state edge case
 2025-01-05T16:48:00 Polish dashboard layout
+2025-01-05T09:49:00 Fix websocket reconnect race
