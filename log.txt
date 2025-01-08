@@ -6,3 +6,4 @@
 2025-01-05T09:49:00 Fix websocket reconnect race
 2025-01-07T15:09:00 Add loading skeleton
 2025-01-07T12:38:00 Clean up imports
+2025-01-08T11:05:00 Improve validation errors
