@@ -24,3 +24,4 @@
 2025-01-14T13:02:00 Split route into modules
 2025-01-14T12:39:00 Polish dashboard layout
 2025-01-14T11:23:00 Remove dead code
+2025-01-14T18:23:00 Add health-check endpoint
