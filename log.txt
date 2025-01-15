@@ -27,3 +27,4 @@
 2025-01-14T18:23:00 Add health-check endpoint
 2025-01-14T15:46:00 Move constants to shared
 2025-01-15T12:32:00 Lazy-load charts
+2025-01-15T15:39:00 Handle empty-state edge case
