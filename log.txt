@@ -26,3 +26,4 @@
 2025-01-14T11:23:00 Remove dead code
 2025-01-14T18:23:00 Add health-check endpoint
 2025-01-14T15:46:00 Move constants to shared
+2025-01-15T12:32:00 Lazy-load charts
