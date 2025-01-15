@@ -28,3 +28,4 @@
 2025-01-14T15:46:00 Move constants to shared
 2025-01-15T12:32:00 Lazy-load charts
 2025-01-15T15:39:00 Handle empty-state edge case
+2025-01-15T12:51:00 Guard null user in header
