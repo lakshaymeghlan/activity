@@ -33,3 +33,4 @@
 2025-01-16T10:04:00 Extract config module
 2025-01-16T13:33:00 Handle fetch timeout
 2025-01-16T18:47:00 Add lookup-column index
+2025-01-16T10:31:00 Improve validation errors
