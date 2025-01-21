@@ -37,3 +37,4 @@
 2025-01-16T18:12:00 Fix flaky scheduler test
 2025-01-18T18:27:00 Throttle resize listener
 2025-01-18T09:59:00 Normalize timestamps to UTC
+2025-01-21T13:10:00 Sanitize markdown render
