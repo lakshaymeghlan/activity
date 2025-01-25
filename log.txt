@@ -50,3 +50,4 @@
 2025-01-25T18:38:00 Extract config module
 2025-01-25T18:55:00 Cover error path in tests
 2025-01-25T17:07:00 Paginate activity feed
+2025-01-25T09:25:00 Lazy-load charts
