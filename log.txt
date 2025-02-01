@@ -64,3 +64,4 @@
 2025-01-31T19:00:00 Normalize timestamps to UTC
 2025-01-31T15:39:00 Add lookup-column index
 2025-01-31T18:08:00 Add retry to API client
+2025-02-01T14:10:00 Bump dependencies
