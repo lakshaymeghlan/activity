@@ -66,3 +66,4 @@
 2025-01-31T18:08:00 Add retry to API client
 2025-02-01T14:10:00 Bump dependencies
 2025-02-01T13:04:00 Extract config module
+2025-02-01T13:21:00 Debounce search input
