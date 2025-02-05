@@ -77,3 +77,4 @@
 2025-02-02T16:22:00 Wire beta feature flag
 2025-02-04T17:39:00 Guard null user in header
 2025-02-04T18:55:00 Add health-check endpoint
+2025-02-05T13:49:00 Batch DB writes
