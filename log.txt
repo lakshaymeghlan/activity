@@ -79,3 +79,4 @@
 2025-02-04T18:55:00 Add health-check endpoint
 2025-02-05T13:49:00 Batch DB writes
 2025-02-05T11:18:00 Harden CORS
+2025-02-05T14:37:00 Refactor auth middleware
