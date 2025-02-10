@@ -89,3 +89,4 @@
 2025-02-09T17:26:00 Lazy-load charts
 2025-02-09T13:44:00 Add lookup-column index
 2025-02-09T19:57:00 Improve modal a11y
+2025-02-10T19:19:00 Guard null user in header
