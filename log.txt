@@ -105,3 +105,4 @@
 2025-02-12T19:10:00 Improve validation errors
 2025-02-12T09:38:00 Add lookup-column index
 2025-02-14T11:43:00 Memoize selector
+2025-02-14T12:39:00 Refactor auth middleware
