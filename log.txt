@@ -110,3 +110,4 @@
 2025-02-14T13:12:00 Throttle resize listener
 2025-02-17T15:06:00 Fix websocket reconnect race
 2025-02-17T15:39:00 Debounce search input
+2025-02-17T17:51:00 Add retry to API client
