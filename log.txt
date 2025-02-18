@@ -111,3 +111,4 @@
 2025-02-17T15:06:00 Fix websocket reconnect race
 2025-02-17T15:39:00 Debounce search input
 2025-02-17T17:51:00 Add retry to API client
+2025-02-18T11:57:00 Remove dead code
