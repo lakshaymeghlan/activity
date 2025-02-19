@@ -115,3 +115,4 @@
 2025-02-18T14:14:00 Wire beta feature flag
 2025-02-18T15:04:00 Batch DB writes
 2025-02-19T12:11:00 Guard null user in header
+2025-02-19T15:40:00 Validate ingest params
