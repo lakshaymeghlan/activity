@@ -136,3 +136,4 @@
 2025-02-27T14:02:00 Fix pagination cursor
 2025-02-27T16:08:00 Move constants to shared
 2025-02-27T18:08:00 Fix dark-mode contrast
+2025-03-01T18:12:00 Paginate activity feed
