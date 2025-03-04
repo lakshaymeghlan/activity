@@ -143,3 +143,4 @@
 2025-03-01T11:29:00 Add column migration
 2025-03-04T15:07:00 Add health-check endpoint
 2025-03-04T17:34:00 Batch DB writes
+2025-03-04T12:30:00 Debounce search input
