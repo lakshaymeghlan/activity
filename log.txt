@@ -154,3 +154,4 @@
 2025-03-06T13:08:00 Remove dead code
 2025-03-07T19:35:00 Move constants to shared
 2025-03-07T11:00:00 Improve validation errors
+2025-03-08T18:30:00 Add loading skeleton
