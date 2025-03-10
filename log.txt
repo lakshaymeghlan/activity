@@ -156,3 +156,4 @@
 2025-03-07T11:00:00 Improve validation errors
 2025-03-08T18:30:00 Add loading skeleton
 2025-03-08T16:21:00 Handle fetch timeout
+2025-03-10T17:12:00 Add lookup-column index
