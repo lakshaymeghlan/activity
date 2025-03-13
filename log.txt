@@ -163,3 +163,4 @@
 2025-03-11T16:32:00 Wire beta feature flag
 2025-03-13T09:22:00 Improve validation errors
 2025-03-13T11:05:00 Add lookup-column index
+2025-03-13T19:21:00 Add column migration
