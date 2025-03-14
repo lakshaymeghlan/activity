@@ -164,3 +164,4 @@
 2025-03-13T09:22:00 Improve validation errors
 2025-03-13T11:05:00 Add lookup-column index
 2025-03-13T19:21:00 Add column migration
+2025-03-14T17:47:00 Sanitize markdown render
