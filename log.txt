@@ -166,3 +166,4 @@
 2025-03-13T19:21:00 Add column migration
 2025-03-14T17:47:00 Sanitize markdown render
 2025-03-14T19:07:00 Lazy-load charts
+2025-03-14T11:35:00 Split route into modules
