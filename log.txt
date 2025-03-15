@@ -168,3 +168,4 @@
 2025-03-14T19:07:00 Lazy-load charts
 2025-03-14T11:35:00 Split route into modules
 2025-03-14T09:43:00 Handle empty-state edge case
+2025-03-15T17:38:00 Move constants to shared
