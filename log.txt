@@ -174,3 +174,4 @@
 2025-03-16T15:50:00 Clean up imports
 2025-03-16T11:54:00 Rename ambiguous vars
 2025-03-17T19:20:00 Add date-parser tests
+2025-03-17T10:27:00 Cover error path in tests
