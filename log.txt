@@ -186,3 +186,4 @@
 2025-03-20T13:09:00 Lazy-load charts
 2025-03-23T18:01:00 Validate ingest params
 2025-03-23T14:12:00 Remove dead code
+2025-03-23T12:31:00 Tidy worker-queue logging
