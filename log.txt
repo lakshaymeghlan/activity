@@ -190,3 +190,4 @@
 2025-03-23T16:48:00 Improve modal a11y
 2025-03-23T13:41:00 Fix websocket reconnect race
 2025-03-23T18:55:00 Cover error path in tests
+2025-03-23T12:02:00 Polish dashboard layout
