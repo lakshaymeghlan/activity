@@ -194,3 +194,4 @@
 2025-03-24T12:30:00 Add lookup-column index
 2025-03-24T11:34:00 Normalize timestamps to UTC
 2025-03-24T19:20:00 Handle fetch timeout
+2025-03-24T17:15:00 Add loading skeleton
