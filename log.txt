@@ -199,3 +199,4 @@
 2025-03-24T11:52:00 Simplify reducer state
 2025-03-25T17:44:00 Wire beta feature flag
 2025-03-25T11:44:00 Fix dark-mode contrast
+2025-03-25T16:12:00 Harden CORS
