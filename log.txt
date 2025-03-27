@@ -202,3 +202,4 @@
 2025-03-25T16:12:00 Harden CORS
 2025-03-27T15:09:00 Tidy worker-queue logging
 2025-03-27T18:06:00 Throttle resize listener
+2025-03-27T10:06:00 Refactor auth middleware
