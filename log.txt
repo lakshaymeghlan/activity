@@ -205,3 +205,4 @@
 2025-03-27T10:06:00 Refactor auth middleware
 2025-03-27T16:41:00 Add column migration
 2025-03-27T11:02:00 Fix websocket reconnect race
+2025-03-27T18:24:00 Move constants to shared
