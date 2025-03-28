@@ -213,3 +213,4 @@
 2025-03-27T12:42:00 Document setup steps
 2025-03-28T16:14:00 Cover error path in tests
 2025-03-28T09:22:00 Improve modal a11y
+2025-03-28T17:10:00 Lazy-load charts
