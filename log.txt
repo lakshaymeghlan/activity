@@ -215,3 +215,4 @@
 2025-03-28T09:22:00 Improve modal a11y
 2025-03-28T17:10:00 Lazy-load charts
 2025-03-28T11:13:00 Add retry to API client
+2025-03-28T11:45:00 Simplify reducer state
