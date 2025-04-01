@@ -225,3 +225,4 @@
 2025-03-31T18:27:00 Extract config module
 2025-04-01T16:15:00 Improve modal a11y
 2025-04-01T12:43:00 Add health-check endpoint
+2025-04-01T09:11:00 Fix dark-mode contrast
