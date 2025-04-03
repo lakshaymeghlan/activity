@@ -230,3 +230,4 @@
 2025-04-02T11:55:00 Fix flaky scheduler test
 2025-04-02T18:25:00 Paginate activity feed
 2025-04-03T14:23:00 Cover error path in tests
+2025-04-03T18:27:00 Normalize timestamps to UTC
