@@ -236,3 +236,4 @@
 2025-04-05T10:50:00 Cache graph query
 2025-04-05T12:41:00 Guard null user in header
 2025-04-05T19:29:00 Memoize selector
+2025-04-05T19:36:00 Add lookup-column index
