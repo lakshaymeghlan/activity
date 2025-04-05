@@ -234,3 +234,4 @@
 2025-04-04T13:24:00 Validate ingest params
 2025-04-04T12:01:00 Fix websocket reconnect race
 2025-04-05T10:50:00 Cache graph query
+2025-04-05T12:41:00 Guard null user in header
