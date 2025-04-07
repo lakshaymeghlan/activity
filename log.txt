@@ -245,3 +245,4 @@
 2025-04-07T15:07:00 Fix dark-mode contrast
 2025-04-07T19:20:00 Add date-parser tests
 2025-04-07T17:11:00 Guard null user in header
+2025-04-07T15:35:00 Polish dashboard layout
