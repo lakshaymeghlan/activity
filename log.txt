@@ -243,3 +243,4 @@
 2025-04-06T12:54:00 Extract config module
 2025-04-07T13:16:00 Split route into modules
 2025-04-07T15:07:00 Fix dark-mode contrast
+2025-04-07T19:20:00 Add date-parser tests
