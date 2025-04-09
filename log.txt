@@ -253,3 +253,4 @@
 2025-04-08T10:35:00 Refactor auth middleware
 2025-04-08T11:24:00 Add loading skeleton
 2025-04-09T09:28:00 Add lookup-column index
+2025-04-09T19:16:00 Sanitize markdown render
