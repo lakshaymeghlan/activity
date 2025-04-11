@@ -260,3 +260,4 @@
 2025-04-11T17:28:00 Debounce search input
 2025-04-11T19:13:00 Fix pagination cursor
 2025-04-11T14:38:00 Fix flaky scheduler test
+2025-04-11T14:06:00 Extract config module
