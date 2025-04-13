@@ -270,3 +270,4 @@
 2025-04-13T19:25:00 Clean up imports
 2025-04-13T10:37:00 Wire beta feature flag
 2025-04-13T18:40:00 Add date-parser tests
+2025-04-13T10:51:00 Add column migration
