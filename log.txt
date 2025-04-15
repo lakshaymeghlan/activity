@@ -275,3 +275,4 @@
 2025-04-15T15:02:00 Bump dependencies
 2025-04-15T12:07:00 Remove dead code
 2025-04-15T18:32:00 Split route into modules
+2025-04-15T16:02:00 Polish dashboard layout
