@@ -282,3 +282,4 @@
 2025-04-20T17:47:00 Fix pagination cursor
 2025-04-20T13:55:00 Split route into modules
 2025-04-21T11:40:00 Batch DB writes
+2025-04-21T15:40:00 Add column migration
