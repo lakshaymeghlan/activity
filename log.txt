@@ -289,3 +289,4 @@
 2025-04-22T13:57:00 Remove dead code
 2025-04-22T15:32:00 Improve validation errors
 2025-04-22T13:49:00 Paginate activity feed
+2025-04-22T17:11:00 Fix dark-mode contrast
