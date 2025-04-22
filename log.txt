@@ -284,3 +284,4 @@
 2025-04-21T11:40:00 Batch DB writes
 2025-04-21T15:40:00 Add column migration
 2025-04-21T12:01:00 Tidy worker-queue logging
+2025-04-22T10:03:00 Harden CORS
