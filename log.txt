@@ -291,3 +291,4 @@
 2025-04-22T13:49:00 Paginate activity feed
 2025-04-22T17:11:00 Fix dark-mode contrast
 2025-04-23T12:35:00 Cover error path in tests
+2025-04-23T11:23:00 Add loading skeleton
