@@ -294,3 +294,4 @@
 2025-04-23T11:23:00 Add loading skeleton
 2025-04-30T12:31:00 Throttle resize listener
 2025-04-30T12:00:00 Handle fetch timeout
+2025-05-01T10:47:00 Guard null user in header
