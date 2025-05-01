@@ -295,3 +295,4 @@
 2025-04-30T12:31:00 Throttle resize listener
 2025-04-30T12:00:00 Handle fetch timeout
 2025-05-01T10:47:00 Guard null user in header
+2025-05-01T10:19:00 Add health-check endpoint
