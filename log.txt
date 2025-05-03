@@ -302,3 +302,4 @@
 2025-05-03T14:54:00 Fix dark-mode contrast
 2025-05-03T16:00:00 Add column migration
 2025-05-03T19:07:00 Improve modal a11y
+2025-05-03T15:38:00 Add retry to API client
