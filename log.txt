@@ -307,3 +307,4 @@
 2025-05-04T17:58:00 Bump dependencies
 2025-05-04T13:36:00 Paginate activity feed
 2025-05-04T15:19:00 Improve validation errors
+2025-05-04T09:03:00 Tidy worker-queue logging
