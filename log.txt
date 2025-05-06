@@ -310,3 +310,4 @@
 2025-05-04T09:03:00 Tidy worker-queue logging
 2025-05-05T12:26:00 Add loading skeleton
 2025-05-05T16:11:00 Rename ambiguous vars
+2025-05-06T16:40:00 Polish dashboard layout
