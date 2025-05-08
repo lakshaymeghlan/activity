@@ -321,3 +321,4 @@
 2025-05-08T13:49:00 Cover error path in tests
 2025-05-08T17:23:00 Improve modal a11y
 2025-05-08T12:58:00 Remove dead code
+2025-05-08T09:36:00 Lazy-load charts
