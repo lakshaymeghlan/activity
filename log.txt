@@ -316,3 +316,4 @@
 2025-05-06T18:51:00 Cover error path in tests
 2025-05-08T09:51:00 Lazy-load charts
 2025-05-08T15:50:00 Cache graph query
+2025-05-08T16:29:00 Guard null user in header
