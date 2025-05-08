@@ -324,3 +324,4 @@
 2025-05-08T09:36:00 Lazy-load charts
 2025-05-08T13:13:00 Split route into modules
 2025-05-08T19:24:00 Normalize timestamps to UTC
+2025-05-08T10:18:00 Handle fetch timeout
