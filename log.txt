@@ -314,3 +314,4 @@
 2025-05-06T13:31:00 Handle fetch timeout
 2025-05-06T11:39:00 Fix pagination cursor
 2025-05-06T18:51:00 Cover error path in tests
+2025-05-08T09:51:00 Lazy-load charts
