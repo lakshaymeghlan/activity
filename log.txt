@@ -323,3 +323,4 @@
 2025-05-08T12:58:00 Remove dead code
 2025-05-08T09:36:00 Lazy-load charts
 2025-05-08T13:13:00 Split route into modules
+2025-05-08T19:24:00 Normalize timestamps to UTC
