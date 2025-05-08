@@ -319,3 +319,4 @@
 2025-05-08T16:29:00 Guard null user in header
 2025-05-08T15:21:00 Normalize timestamps to UTC
 2025-05-08T13:49:00 Cover error path in tests
+2025-05-08T17:23:00 Improve modal a11y
