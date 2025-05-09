@@ -326,3 +326,4 @@
 2025-05-08T19:24:00 Normalize timestamps to UTC
 2025-05-08T10:18:00 Handle fetch timeout
 2025-05-09T19:24:00 Debounce search input
+2025-05-09T09:30:00 Polish dashboard layout
