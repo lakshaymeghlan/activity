@@ -334,3 +334,4 @@
 2025-05-11T09:33:00 Fix websocket reconnect race
 2025-05-11T11:07:00 Add loading skeleton
 2025-05-12T17:10:00 Tidy worker-queue logging
+2025-05-12T13:28:00 Add retry to API client
