@@ -345,3 +345,4 @@
 2025-05-14T13:16:00 Improve validation errors
 2025-05-14T12:33:00 Remove dead code
 2025-05-14T10:06:00 Harden CORS
+2025-05-15T11:18:00 Paginate activity feed
