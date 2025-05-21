@@ -355,3 +355,4 @@
 2025-05-19T10:55:00 Memoize selector
 2025-05-19T17:23:00 Guard null user in header
 2025-05-19T16:29:00 Refactor auth middleware
+2025-05-21T18:14:00 Improve modal a11y
