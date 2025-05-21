@@ -357,3 +357,4 @@
 2025-05-19T16:29:00 Refactor auth middleware
 2025-05-21T18:14:00 Improve modal a11y
 2025-05-21T09:20:00 Cover error path in tests
+2025-05-21T11:18:00 Fix dark-mode contrast
