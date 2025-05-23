@@ -362,3 +362,4 @@
 2025-05-22T16:53:00 Fix websocket reconnect race
 2025-05-22T11:10:00 Document setup steps
 2025-05-23T13:06:00 Cache graph query
+2025-05-23T18:24:00 Refactor auth middleware
