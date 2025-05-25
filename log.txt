@@ -367,3 +367,4 @@
 2025-05-24T13:31:00 Bump dependencies
 2025-05-24T17:43:00 Rename ambiguous vars
 2025-05-24T17:53:00 Add retry to API client
+2025-05-25T13:36:00 Batch DB writes
