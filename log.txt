@@ -375,3 +375,4 @@
 2025-05-26T09:13:00 Guard null user in header
 2025-05-27T11:12:00 Wire beta feature flag
 2025-05-27T09:39:00 Lazy-load charts
+2025-05-27T12:22:00 Polish dashboard layout
