@@ -380,3 +380,4 @@
 2025-05-28T15:22:00 Add health-check endpoint
 2025-05-29T10:54:00 Fix websocket reconnect race
 2025-05-29T17:19:00 Harden CORS
+2025-05-31T18:41:00 Handle empty-state edge case
