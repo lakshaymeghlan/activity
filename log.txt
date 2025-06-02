@@ -384,3 +384,4 @@
 2025-05-31T14:16:00 Refactor auth middleware
 2025-05-31T12:00:00 Validate ingest params
 2025-06-02T10:04:00 Memoize selector
+2025-06-02T12:30:00 Fix flaky scheduler test
