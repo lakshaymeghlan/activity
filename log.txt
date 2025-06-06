@@ -391,3 +391,4 @@
 2025-06-05T13:24:00 Clean up imports
 2025-06-05T12:03:00 Guard null user in header
 2025-06-06T13:56:00 Cover error path in tests
+2025-06-06T17:00:00 Cache graph query
