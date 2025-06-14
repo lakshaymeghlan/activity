@@ -404,3 +404,4 @@
 2025-06-11T16:06:00 Move constants to shared
 2025-06-14T13:52:00 Extract config module
 2025-06-14T18:56:00 Rename ambiguous vars
+2025-06-14T09:28:00 Improve modal a11y
