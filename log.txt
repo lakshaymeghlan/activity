@@ -406,3 +406,4 @@
 2025-06-14T18:56:00 Rename ambiguous vars
 2025-06-14T09:28:00 Improve modal a11y
 2025-06-16T11:59:00 Cache graph query
+2025-06-16T18:30:00 Lazy-load charts
