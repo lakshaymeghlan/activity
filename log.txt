@@ -412,3 +412,4 @@
 2025-06-18T17:31:00 Guard null user in header
 2025-06-18T12:27:00 Document setup steps
 2025-06-18T11:10:00 Add date-parser tests
+2025-06-18T10:49:00 Harden CORS
