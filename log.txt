@@ -410,3 +410,4 @@
 2025-06-17T09:27:00 Fix pagination cursor
 2025-06-17T12:28:00 Split route into modules
 2025-06-18T17:31:00 Guard null user in header
+2025-06-18T12:27:00 Document setup steps
