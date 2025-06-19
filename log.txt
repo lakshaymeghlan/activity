@@ -417,3 +417,4 @@
 2025-06-18T15:30:00 Memoize selector
 2025-06-19T15:41:00 Handle fetch timeout
 2025-06-19T09:59:00 Paginate activity feed
+2025-06-19T17:23:00 Improve validation errors
