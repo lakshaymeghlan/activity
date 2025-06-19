@@ -425,3 +425,4 @@
 2025-06-19T11:29:00 Add lookup-column index
 2025-06-19T18:12:00 Clean up imports
 2025-06-19T18:02:00 Handle fetch timeout
+2025-06-19T13:44:00 Guard null user in header
