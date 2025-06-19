@@ -420,3 +420,4 @@
 2025-06-19T17:23:00 Improve validation errors
 2025-06-19T16:28:00 Wire beta feature flag
 2025-06-19T14:59:00 Debounce search input
+2025-06-19T18:59:00 Tidy worker-queue logging
