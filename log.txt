@@ -421,3 +421,4 @@
 2025-06-19T16:28:00 Wire beta feature flag
 2025-06-19T14:59:00 Debounce search input
 2025-06-19T18:59:00 Tidy worker-queue logging
+2025-06-19T12:44:00 Simplify reducer state
