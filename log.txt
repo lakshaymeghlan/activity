@@ -418,3 +418,4 @@
 2025-06-19T15:41:00 Handle fetch timeout
 2025-06-19T09:59:00 Paginate activity feed
 2025-06-19T17:23:00 Improve validation errors
+2025-06-19T16:28:00 Wire beta feature flag
