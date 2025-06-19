@@ -424,3 +424,4 @@
 2025-06-19T12:44:00 Simplify reducer state
 2025-06-19T11:29:00 Add lookup-column index
 2025-06-19T18:12:00 Clean up imports
+2025-06-19T18:02:00 Handle fetch timeout
