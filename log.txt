@@ -429,3 +429,4 @@
 2025-06-20T15:02:00 Bump dependencies
 2025-06-20T13:19:00 Handle empty-state edge case
 2025-06-20T10:59:00 Refactor auth middleware
+2025-06-20T09:30:00 Sanitize markdown render
