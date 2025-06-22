@@ -434,3 +434,4 @@
 2025-06-21T11:18:00 Extract config module
 2025-06-21T19:09:00 Remove dead code
 2025-06-22T19:40:00 Add column migration
+2025-06-22T11:41:00 Move constants to shared
