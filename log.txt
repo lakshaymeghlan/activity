@@ -435,3 +435,4 @@
 2025-06-21T19:09:00 Remove dead code
 2025-06-22T19:40:00 Add column migration
 2025-06-22T11:41:00 Move constants to shared
+2025-06-22T16:48:00 Add retry to API client
