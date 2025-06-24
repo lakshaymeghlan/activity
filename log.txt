@@ -438,3 +438,4 @@
 2025-06-22T16:48:00 Add retry to API client
 2025-06-23T15:59:00 Add date-parser tests
 2025-06-23T15:38:00 Lazy-load charts
+2025-06-24T19:13:00 Fix websocket reconnect race
