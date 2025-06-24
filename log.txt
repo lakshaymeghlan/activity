@@ -439,3 +439,4 @@
 2025-06-23T15:59:00 Add date-parser tests
 2025-06-23T15:38:00 Lazy-load charts
 2025-06-24T19:13:00 Fix websocket reconnect race
+2025-06-24T13:29:00 Bump dependencies
