@@ -447,3 +447,4 @@
 2025-06-25T15:30:00 Simplify reducer state
 2025-06-27T11:12:00 Rename ambiguous vars
 2025-06-27T16:03:00 Extract config module
+2025-06-28T11:34:00 Cache graph query
