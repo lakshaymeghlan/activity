@@ -451,3 +451,4 @@
 2025-06-28T16:02:00 Paginate activity feed
 2025-06-28T12:54:00 Add loading skeleton
 2025-06-28T19:56:00 Validate ingest params
+2025-06-29T09:34:00 Lazy-load charts
