@@ -456,3 +456,4 @@
 2025-06-30T17:41:00 Sanitize markdown render
 2025-06-30T17:51:00 Handle fetch timeout
 2025-06-30T18:08:00 Add column migration
+2025-06-30T15:43:00 Harden CORS
