@@ -453,3 +453,4 @@
 2025-06-28T19:56:00 Validate ingest params
 2025-06-29T09:34:00 Lazy-load charts
 2025-06-29T09:10:00 Refactor auth middleware
+2025-06-30T17:41:00 Sanitize markdown render
