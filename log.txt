@@ -460,3 +460,4 @@
 2025-06-30T14:36:00 Document setup steps
 2025-07-04T09:57:00 Split route into modules
 2025-07-04T09:05:00 Normalize timestamps to UTC
+2025-07-04T19:36:00 Add lookup-column index
