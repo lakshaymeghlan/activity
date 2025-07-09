@@ -463,3 +463,4 @@
 2025-07-04T19:36:00 Add lookup-column index
 2025-07-04T14:57:00 Fix flaky scheduler test
 2025-07-04T16:21:00 Debounce search input
+2025-07-09T15:03:00 Cache graph query
