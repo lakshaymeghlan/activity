@@ -465,3 +465,4 @@
 2025-07-04T16:21:00 Debounce search input
 2025-07-09T15:03:00 Cache graph query
 2025-07-09T11:55:00 Tidy worker-queue logging
+2025-07-10T18:33:00 Rename ambiguous vars
