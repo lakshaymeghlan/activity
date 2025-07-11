@@ -469,3 +469,4 @@
 2025-07-10T14:48:00 Polish dashboard layout
 2025-07-10T13:15:00 Move constants to shared
 2025-07-11T13:39:00 Memoize selector
+2025-07-11T15:19:00 Handle fetch timeout
