@@ -472,3 +472,4 @@
 2025-07-11T15:19:00 Handle fetch timeout
 2025-07-11T15:50:00 Handle empty-state edge case
 2025-07-11T17:02:00 Remove dead code
+2025-07-11T11:24:00 Extract config module
