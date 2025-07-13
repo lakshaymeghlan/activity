@@ -477,3 +477,4 @@
 2025-07-13T18:51:00 Add health-check endpoint
 2025-07-13T14:12:00 Add retry to API client
 2025-07-13T17:57:00 Fix dark-mode contrast
+2025-07-13T15:21:00 Guard null user in header
