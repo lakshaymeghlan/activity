@@ -481,3 +481,4 @@
 2025-07-13T15:01:00 Normalize timestamps to UTC
 2025-07-13T13:59:00 Harden CORS
 2025-07-14T12:58:00 Polish dashboard layout
+2025-07-14T19:08:00 Validate ingest params
