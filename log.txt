@@ -485,3 +485,4 @@
 2025-07-14T13:58:00 Improve modal a11y
 2025-07-15T19:14:00 Split route into modules
 2025-07-15T16:24:00 Document setup steps
+2025-07-15T10:55:00 Debounce search input
