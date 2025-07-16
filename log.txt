@@ -488,3 +488,4 @@
 2025-07-15T10:55:00 Debounce search input
 2025-07-15T18:46:00 Memoize selector
 2025-07-16T17:46:00 Handle fetch timeout
+2025-07-16T09:54:00 Add lookup-column index
