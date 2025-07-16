@@ -493,3 +493,4 @@
 2025-07-16T09:35:00 Extract config module
 2025-07-16T18:23:00 Throttle resize listener
 2025-07-16T13:23:00 Lazy-load charts
+2025-07-16T11:00:00 Add retry to API client
