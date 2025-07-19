@@ -497,3 +497,4 @@
 2025-07-17T13:38:00 Improve validation errors
 2025-07-17T14:45:00 Fix dark-mode contrast
 2025-07-17T11:11:00 Clean up imports
+2025-07-19T13:18:00 Fix websocket reconnect race
