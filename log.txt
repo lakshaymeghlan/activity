@@ -499,3 +499,4 @@
 2025-07-17T11:11:00 Clean up imports
 2025-07-19T13:18:00 Fix websocket reconnect race
 2025-07-19T16:10:00 Add column migration
+2025-07-20T17:56:00 Add retry to API client
