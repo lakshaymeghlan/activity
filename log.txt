@@ -504,3 +504,4 @@
 2025-07-20T13:12:00 Throttle resize listener
 2025-07-22T18:13:00 Fix flaky scheduler test
 2025-07-22T10:12:00 Rename ambiguous vars
+2025-07-22T18:49:00 Tidy worker-queue logging
