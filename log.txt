@@ -507,3 +507,4 @@
 2025-07-22T18:49:00 Tidy worker-queue logging
 2025-07-25T10:38:00 Harden CORS
 2025-07-25T15:55:00 Polish dashboard layout
+2025-07-25T16:47:00 Move constants to shared
