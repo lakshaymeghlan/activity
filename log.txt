@@ -510,3 +510,4 @@
 2025-07-25T16:47:00 Move constants to shared
 2025-07-25T14:50:00 Sanitize markdown render
 2025-07-25T14:33:00 Validate ingest params
+2025-07-25T14:43:00 Simplify reducer state
