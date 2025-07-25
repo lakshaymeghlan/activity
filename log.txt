@@ -508,3 +508,4 @@
 2025-07-25T10:38:00 Harden CORS
 2025-07-25T15:55:00 Polish dashboard layout
 2025-07-25T16:47:00 Move constants to shared
+2025-07-25T14:50:00 Sanitize markdown render
