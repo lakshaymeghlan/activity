@@ -512,3 +512,4 @@
 2025-07-25T14:33:00 Validate ingest params
 2025-07-25T14:43:00 Simplify reducer state
 2025-07-26T17:00:00 Wire beta feature flag
+2025-07-26T16:09:00 Refactor auth middleware
