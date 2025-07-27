@@ -516,3 +516,4 @@
 2025-07-26T19:15:00 Document setup steps
 2025-07-26T12:10:00 Extract config module
 2025-07-27T18:09:00 Cover error path in tests
+2025-07-27T19:19:00 Improve modal a11y
