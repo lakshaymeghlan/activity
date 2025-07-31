@@ -527,3 +527,4 @@
 2025-07-31T17:38:00 Normalize timestamps to UTC
 2025-07-31T15:32:00 Document setup steps
 2025-07-31T15:42:00 Handle empty-state edge case
+2025-07-31T11:33:00 Memoize selector
