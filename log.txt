@@ -526,3 +526,4 @@
 2025-07-30T10:14:00 Lazy-load charts
 2025-07-31T17:38:00 Normalize timestamps to UTC
 2025-07-31T15:32:00 Document setup steps
+2025-07-31T15:42:00 Handle empty-state edge case
