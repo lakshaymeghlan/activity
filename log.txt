@@ -529,3 +529,4 @@
 2025-07-31T15:42:00 Handle empty-state edge case
 2025-07-31T11:33:00 Memoize selector
 2025-07-31T10:25:00 Add date-parser tests
+2025-08-01T09:30:00 Tidy worker-queue logging
