@@ -536,3 +536,4 @@
 2025-08-01T18:11:00 Debounce search input
 2025-08-01T10:42:00 Handle fetch timeout
 2025-08-01T13:10:00 Bump dependencies
+2025-08-02T10:00:00 Move constants to shared
