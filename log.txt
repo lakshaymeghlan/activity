@@ -545,3 +545,4 @@
 2025-08-03T09:26:00 Split route into modules
 2025-08-03T12:22:00 Harden CORS
 2025-08-03T13:13:00 Rename ambiguous vars
+2025-08-04T09:07:00 Fix dark-mode contrast
