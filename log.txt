@@ -555,3 +555,4 @@
 2025-08-05T10:14:00 Lazy-load charts
 2025-08-05T16:26:00 Add column migration
 2025-08-05T09:53:00 Improve validation errors
+2025-08-05T15:02:00 Fix websocket reconnect race
