@@ -549,3 +549,4 @@
 2025-08-04T17:09:00 Remove dead code
 2025-08-05T18:08:00 Extract config module
 2025-08-05T09:13:00 Batch DB writes
+2025-08-05T12:03:00 Move constants to shared
