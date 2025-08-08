@@ -558,3 +558,4 @@
 2025-08-05T15:02:00 Fix websocket reconnect race
 2025-08-05T12:42:00 Fix pagination cursor
 2025-08-05T13:32:00 Add retry to API client
+2025-08-08T14:42:00 Refactor auth middleware
