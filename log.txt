@@ -562,3 +562,4 @@
 2025-08-08T09:11:00 Add date-parser tests
 2025-08-08T09:06:00 Fix pagination cursor
 2025-08-09T14:25:00 Remove dead code
+2025-08-09T12:40:00 Handle empty-state edge case
