@@ -564,3 +564,4 @@
 2025-08-09T14:25:00 Remove dead code
 2025-08-09T12:40:00 Handle empty-state edge case
 2025-08-09T12:59:00 Polish dashboard layout
+2025-08-10T10:00:00 Fix dark-mode contrast
