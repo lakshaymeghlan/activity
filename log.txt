@@ -567,3 +567,4 @@
 2025-08-10T10:00:00 Fix dark-mode contrast
 2025-08-10T15:15:00 Throttle resize listener
 2025-08-10T16:13:00 Add column migration
+2025-08-11T12:45:00 Paginate activity feed
