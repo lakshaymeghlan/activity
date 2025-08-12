@@ -571,3 +571,4 @@
 2025-08-11T11:15:00 Fix websocket reconnect race
 2025-08-12T13:56:00 Add retry to API client
 2025-08-12T18:48:00 Lazy-load charts
+2025-08-12T17:02:00 Split route into modules
