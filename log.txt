@@ -569,3 +569,4 @@
 2025-08-10T16:13:00 Add column migration
 2025-08-11T12:45:00 Paginate activity feed
 2025-08-11T11:15:00 Fix websocket reconnect race
+2025-08-12T13:56:00 Add retry to API client
