@@ -577,3 +577,4 @@
 2025-08-14T19:59:00 Add health-check endpoint
 2025-08-14T15:06:00 Validate ingest params
 2025-08-14T18:16:00 Add loading skeleton
+2025-08-14T09:55:00 Simplify reducer state
