@@ -575,3 +575,4 @@
 2025-08-12T10:37:00 Memoize selector
 2025-08-12T19:08:00 Extract config module
 2025-08-14T19:59:00 Add health-check endpoint
+2025-08-14T15:06:00 Validate ingest params
