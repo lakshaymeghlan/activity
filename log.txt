@@ -581,3 +581,4 @@
 2025-08-14T13:12:00 Refactor auth middleware
 2025-08-15T13:45:00 Extract config module
 2025-08-15T12:46:00 Fix dark-mode contrast
+2025-08-15T13:48:00 Throttle resize listener
