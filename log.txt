@@ -583,3 +583,4 @@
 2025-08-15T12:46:00 Fix dark-mode contrast
 2025-08-15T13:48:00 Throttle resize listener
 2025-08-16T11:06:00 Tidy worker-queue logging
+2025-08-16T16:50:00 Add column migration
