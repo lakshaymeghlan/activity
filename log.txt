@@ -587,3 +587,4 @@
 2025-08-16T19:45:00 Add health-check endpoint
 2025-08-16T17:54:00 Lazy-load charts
 2025-08-16T11:56:00 Add loading skeleton
+2025-08-18T11:34:00 Add lookup-column index
