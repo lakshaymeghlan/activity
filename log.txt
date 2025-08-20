@@ -589,3 +589,4 @@
 2025-08-16T11:56:00 Add loading skeleton
 2025-08-18T11:34:00 Add lookup-column index
 2025-08-18T17:43:00 Handle fetch timeout
+2025-08-20T13:56:00 Validate ingest params
