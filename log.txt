@@ -598,3 +598,4 @@
 2025-08-21T11:44:00 Simplify reducer state
 2025-08-21T13:14:00 Bump dependencies
 2025-08-21T11:53:00 Clean up imports
+2025-08-21T17:58:00 Improve modal a11y
