@@ -600,3 +600,4 @@
 2025-08-21T11:53:00 Clean up imports
 2025-08-21T17:58:00 Improve modal a11y
 2025-08-22T16:47:00 Split route into modules
+2025-08-22T17:34:00 Simplify reducer state
