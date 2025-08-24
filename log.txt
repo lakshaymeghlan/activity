@@ -605,3 +605,4 @@
 2025-08-23T10:34:00 Fix pagination cursor
 2025-08-23T19:50:00 Clean up imports
 2025-08-24T12:25:00 Debounce search input
+2025-08-24T12:36:00 Guard null user in header
