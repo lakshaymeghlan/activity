@@ -608,3 +608,4 @@
 2025-08-24T12:36:00 Guard null user in header
 2025-08-24T15:07:00 Normalize timestamps to UTC
 2025-08-24T17:55:00 Extract config module
+2025-08-26T09:37:00 Rename ambiguous vars
