@@ -610,3 +610,4 @@
 2025-08-24T17:55:00 Extract config module
 2025-08-26T09:37:00 Rename ambiguous vars
 2025-08-26T13:40:00 Harden CORS
+2025-08-27T09:21:00 Remove dead code
