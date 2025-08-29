@@ -619,3 +619,4 @@
 2025-08-28T15:38:00 Improve validation errors
 2025-08-28T18:24:00 Add date-parser tests
 2025-08-28T13:04:00 Lazy-load charts
+2025-08-29T13:45:00 Sanitize markdown render
