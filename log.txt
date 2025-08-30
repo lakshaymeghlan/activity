@@ -622,3 +622,4 @@
 2025-08-29T13:45:00 Sanitize markdown render
 2025-08-29T19:57:00 Improve validation errors
 2025-08-29T19:11:00 Paginate activity feed
+2025-08-30T13:28:00 Move constants to shared
