@@ -637,3 +637,4 @@
 2025-09-03T13:15:00 Split route into modules
 2025-09-03T16:36:00 Normalize timestamps to UTC
 2025-09-03T11:53:00 Document setup steps
+2025-09-03T09:50:00 Add loading skeleton
