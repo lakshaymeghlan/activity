@@ -639,3 +639,4 @@
 2025-09-03T11:53:00 Document setup steps
 2025-09-03T09:50:00 Add loading skeleton
 2025-09-04T09:18:00 Fix dark-mode contrast
+2025-09-04T12:42:00 Validate ingest params
