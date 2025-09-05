@@ -645,3 +645,4 @@
 2025-09-05T12:16:00 Clean up imports
 2025-09-05T10:28:00 Polish dashboard layout
 2025-09-05T13:47:00 Throttle resize listener
+2025-09-05T09:28:00 Normalize timestamps to UTC
