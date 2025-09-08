@@ -647,3 +647,4 @@
 2025-09-05T13:47:00 Throttle resize listener
 2025-09-05T09:28:00 Normalize timestamps to UTC
 2025-09-05T19:42:00 Sanitize markdown render
+2025-09-08T14:54:00 Fix websocket reconnect race
