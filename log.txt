@@ -655,3 +655,4 @@
 2025-09-09T17:34:00 Document setup steps
 2025-09-09T14:27:00 Split route into modules
 2025-09-09T11:40:00 Handle fetch timeout
+2025-09-09T16:30:00 Add column migration
