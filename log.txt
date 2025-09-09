@@ -651,3 +651,4 @@
 2025-09-08T19:29:00 Remove dead code
 2025-09-08T14:12:00 Add health-check endpoint
 2025-09-08T13:48:00 Improve validation errors
+2025-09-09T12:06:00 Extract config module
