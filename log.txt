@@ -662,3 +662,4 @@
 2025-09-10T16:10:00 Cover error path in tests
 2025-09-10T17:04:00 Split route into modules
 2025-09-10T14:43:00 Add retry to API client
+2025-09-10T19:43:00 Document setup steps
