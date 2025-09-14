@@ -670,3 +670,4 @@
 2025-09-13T10:42:00 Handle fetch timeout
 2025-09-13T17:43:00 Harden CORS
 2025-09-14T10:30:00 Add column migration
+2025-09-14T12:38:00 Throttle resize listener
