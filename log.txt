@@ -672,3 +672,4 @@
 2025-09-14T10:30:00 Add column migration
 2025-09-14T12:38:00 Throttle resize listener
 2025-09-14T10:24:00 Polish dashboard layout
+2025-09-14T17:20:00 Batch DB writes
