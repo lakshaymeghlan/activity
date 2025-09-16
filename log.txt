@@ -680,3 +680,4 @@
 2025-09-16T16:41:00 Sanitize markdown render
 2025-09-16T16:08:00 Move constants to shared
 2025-09-16T12:28:00 Throttle resize listener
+2025-09-16T12:09:00 Fix dark-mode contrast
