@@ -685,3 +685,4 @@
 2025-09-16T18:13:00 Cover error path in tests
 2025-09-16T13:47:00 Bump dependencies
 2025-09-16T12:55:00 Simplify reducer state
+2025-09-18T10:48:00 Remove dead code
