@@ -689,3 +689,4 @@
 2025-09-18T19:55:00 Add lookup-column index
 2025-09-18T11:17:00 Paginate activity feed
 2025-09-18T11:39:00 Harden CORS
+2025-09-18T13:12:00 Sanitize markdown render
