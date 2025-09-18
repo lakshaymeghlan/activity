@@ -691,3 +691,4 @@
 2025-09-18T11:39:00 Harden CORS
 2025-09-18T13:12:00 Sanitize markdown render
 2025-09-18T16:00:00 Fix flaky scheduler test
+2025-09-18T12:28:00 Fix websocket reconnect race
