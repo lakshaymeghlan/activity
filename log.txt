@@ -694,3 +694,4 @@
 2025-09-18T12:28:00 Fix websocket reconnect race
 2025-09-19T09:59:00 Polish dashboard layout
 2025-09-19T10:46:00 Extract config module
+2025-09-22T12:24:00 Split route into modules
