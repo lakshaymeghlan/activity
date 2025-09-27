@@ -698,3 +698,4 @@
 2025-09-22T16:04:00 Fix pagination cursor
 2025-09-24T12:22:00 Refactor auth middleware
 2025-09-24T13:35:00 Handle fetch timeout
+2025-09-27T13:10:00 Add loading skeleton
