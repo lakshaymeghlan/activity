@@ -713,3 +713,4 @@
 2025-10-04T19:10:00 Add column migration
 2025-10-04T11:21:00 Wire beta feature flag
 2025-10-05T16:00:00 Add lookup-column index
+2025-10-05T16:11:00 Memoize selector
