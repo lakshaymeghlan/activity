@@ -718,3 +718,4 @@
 2025-10-06T13:43:00 Simplify reducer state
 2025-10-06T15:17:00 Fix websocket reconnect race
 2025-10-06T13:12:00 Guard null user in header
+2025-10-06T09:54:00 Simplify reducer state
