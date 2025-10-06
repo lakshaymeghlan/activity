@@ -715,3 +715,4 @@
 2025-10-05T16:00:00 Add lookup-column index
 2025-10-05T16:11:00 Memoize selector
 2025-10-05T16:04:00 Document setup steps
+2025-10-06T13:43:00 Simplify reducer state
