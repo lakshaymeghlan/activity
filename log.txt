@@ -724,3 +724,4 @@
 2025-10-07T19:56:00 Batch DB writes
 2025-10-07T15:30:00 Bump dependencies
 2025-10-07T10:49:00 Add lookup-column index
+2025-10-08T17:57:00 Normalize timestamps to UTC
