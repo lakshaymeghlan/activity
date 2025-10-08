@@ -726,3 +726,4 @@
 2025-10-07T10:49:00 Add lookup-column index
 2025-10-08T17:57:00 Normalize timestamps to UTC
 2025-10-08T14:04:00 Handle empty-state edge case
+2025-10-08T17:53:00 Document setup steps
