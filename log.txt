@@ -744,3 +744,4 @@
 2025-10-11T17:49:00 Cover error path in tests
 2025-10-11T17:08:00 Fix dark-mode contrast
 2025-10-11T12:30:00 Simplify reducer state
+2025-10-11T16:23:00 Sanitize markdown render
