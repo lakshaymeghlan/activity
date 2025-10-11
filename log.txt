@@ -742,3 +742,4 @@
 2025-10-11T15:28:00 Fix pagination cursor
 2025-10-11T12:12:00 Cache graph query
 2025-10-11T17:49:00 Cover error path in tests
+2025-10-11T17:08:00 Fix dark-mode contrast
