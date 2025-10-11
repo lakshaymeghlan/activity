@@ -743,3 +743,4 @@
 2025-10-11T12:12:00 Cache graph query
 2025-10-11T17:49:00 Cover error path in tests
 2025-10-11T17:08:00 Fix dark-mode contrast
+2025-10-11T12:30:00 Simplify reducer state
