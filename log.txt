@@ -750,3 +750,4 @@
 2025-10-15T19:26:00 Memoize selector
 2025-10-17T15:50:00 Remove dead code
 2025-10-17T14:27:00 Add lookup-column index
+2025-10-17T17:17:00 Refactor auth middleware
