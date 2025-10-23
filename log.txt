@@ -754,3 +754,4 @@
 2025-10-17T19:14:00 Add health-check endpoint
 2025-10-17T14:24:00 Batch DB writes
 2025-10-23T15:16:00 Lazy-load charts
+2025-10-23T12:10:00 Normalize timestamps to UTC
