@@ -755,3 +755,4 @@
 2025-10-17T14:24:00 Batch DB writes
 2025-10-23T15:16:00 Lazy-load charts
 2025-10-23T12:10:00 Normalize timestamps to UTC
+2025-10-23T13:35:00 Add loading skeleton
