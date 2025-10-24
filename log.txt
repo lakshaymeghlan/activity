@@ -756,3 +756,4 @@
 2025-10-23T15:16:00 Lazy-load charts
 2025-10-23T12:10:00 Normalize timestamps to UTC
 2025-10-23T13:35:00 Add loading skeleton
+2025-10-24T17:10:00 Validate ingest params
