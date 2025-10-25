@@ -760,3 +760,4 @@
 2025-10-24T11:58:00 Throttle resize listener
 2025-10-25T13:18:00 Tidy worker-queue logging
 2025-10-25T11:37:00 Validate ingest params
+2025-10-25T19:51:00 Add column migration
