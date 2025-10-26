@@ -764,3 +764,4 @@
 2025-10-25T14:29:00 Remove dead code
 2025-10-25T17:18:00 Refactor auth middleware
 2025-10-26T11:16:00 Add health-check endpoint
+2025-10-26T14:06:00 Add date-parser tests
