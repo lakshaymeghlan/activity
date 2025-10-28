@@ -770,3 +770,4 @@
 2025-10-27T14:55:00 Paginate activity feed
 2025-10-28T15:08:00 Sanitize markdown render
 2025-10-28T15:43:00 Fix websocket reconnect race
+2025-10-28T17:01:00 Handle empty-state edge case
