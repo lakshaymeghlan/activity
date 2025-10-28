@@ -776,3 +776,4 @@
 2025-10-28T09:21:00 Lazy-load charts
 2025-10-28T09:24:00 Fix pagination cursor
 2025-10-28T13:57:00 Document setup steps
+2025-10-28T09:10:00 Add loading skeleton
