@@ -780,3 +780,4 @@
 2025-10-28T10:27:00 Move constants to shared
 2025-10-28T14:28:00 Sanitize markdown render
 2025-10-29T10:12:00 Add retry to API client
+2025-10-29T09:35:00 Paginate activity feed
