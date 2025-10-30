@@ -783,3 +783,4 @@
 2025-10-29T09:35:00 Paginate activity feed
 2025-10-29T09:23:00 Handle fetch timeout
 2025-10-30T19:50:00 Fix websocket reconnect race
+2025-10-30T13:52:00 Add loading skeleton
