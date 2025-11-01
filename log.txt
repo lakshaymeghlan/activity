@@ -788,3 +788,4 @@
 2025-11-01T14:36:00 Add column migration
 2025-11-01T16:08:00 Guard null user in header
 2025-11-01T18:51:00 Fix flaky scheduler test
+2025-11-01T15:54:00 Improve validation errors
