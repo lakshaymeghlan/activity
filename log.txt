@@ -791,3 +791,4 @@
 2025-11-01T15:54:00 Improve validation errors
 2025-11-03T15:09:00 Fix pagination cursor
 2025-11-03T11:16:00 Fix dark-mode contrast
+2025-11-03T17:29:00 Rename ambiguous vars
