@@ -793,3 +793,4 @@
 2025-11-03T11:16:00 Fix dark-mode contrast
 2025-11-03T17:29:00 Rename ambiguous vars
 2025-11-03T15:55:00 Split route into modules
+2025-11-04T17:11:00 Lazy-load charts
