@@ -799,3 +799,4 @@
 2025-11-05T14:58:00 Tidy worker-queue logging
 2025-11-06T09:37:00 Cache graph query
 2025-11-06T17:14:00 Debounce search input
+2025-11-06T15:51:00 Normalize timestamps to UTC
