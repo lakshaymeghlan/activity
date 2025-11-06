@@ -797,3 +797,4 @@
 2025-11-04T16:32:00 Improve modal a11y
 2025-11-05T18:17:00 Document setup steps
 2025-11-05T14:58:00 Tidy worker-queue logging
+2025-11-06T09:37:00 Cache graph query
