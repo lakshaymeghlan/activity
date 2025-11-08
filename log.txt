@@ -804,3 +804,4 @@
 2025-11-07T12:18:00 Fix websocket reconnect race
 2025-11-07T19:13:00 Batch DB writes
 2025-11-07T10:25:00 Add retry to API client
+2025-11-08T16:21:00 Document setup steps
