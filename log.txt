@@ -805,3 +805,4 @@
 2025-11-07T19:13:00 Batch DB writes
 2025-11-07T10:25:00 Add retry to API client
 2025-11-08T16:21:00 Document setup steps
+2025-11-08T19:02:00 Rename ambiguous vars
