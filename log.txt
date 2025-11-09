@@ -808,3 +808,4 @@
 2025-11-08T19:02:00 Rename ambiguous vars
 2025-11-08T17:59:00 Lazy-load charts
 2025-11-08T16:37:00 Throttle resize listener
+2025-11-09T16:50:00 Bump dependencies
