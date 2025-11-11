@@ -812,3 +812,4 @@
 2025-11-09T15:04:00 Cover error path in tests
 2025-11-10T19:28:00 Move constants to shared
 2025-11-10T13:05:00 Add column migration
+2025-11-11T11:29:00 Extract config module
