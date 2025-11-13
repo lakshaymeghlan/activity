@@ -821,3 +821,4 @@
 2025-11-12T15:49:00 Throttle resize listener
 2025-11-13T10:42:00 Memoize selector
 2025-11-13T12:07:00 Cover error path in tests
+2025-11-13T09:45:00 Bump dependencies
