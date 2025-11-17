@@ -823,3 +823,4 @@
 2025-11-13T12:07:00 Cover error path in tests
 2025-11-13T09:45:00 Bump dependencies
 2025-11-17T10:28:00 Split route into modules
+2025-11-17T13:57:00 Document setup steps
