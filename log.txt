@@ -826,3 +826,4 @@
 2025-11-17T13:57:00 Document setup steps
 2025-11-17T09:04:00 Fix websocket reconnect race
 2025-11-17T15:33:00 Add column migration
+2025-11-18T15:24:00 Remove dead code
