@@ -831,3 +831,4 @@
 2025-11-18T12:37:00 Sanitize markdown render
 2025-11-21T12:38:00 Batch DB writes
 2025-11-21T19:42:00 Debounce search input
+2025-11-21T09:44:00 Add date-parser tests
