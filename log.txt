@@ -829,3 +829,4 @@
 2025-11-18T15:24:00 Remove dead code
 2025-11-18T09:19:00 Clean up imports
 2025-11-18T12:37:00 Sanitize markdown render
+2025-11-21T12:38:00 Batch DB writes
