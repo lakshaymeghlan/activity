@@ -833,3 +833,4 @@
 2025-11-21T19:42:00 Debounce search input
 2025-11-21T09:44:00 Add date-parser tests
 2025-11-21T15:29:00 Tidy worker-queue logging
+2025-11-21T09:19:00 Handle empty-state edge case
