@@ -837,3 +837,4 @@
 2025-11-22T14:32:00 Fix pagination cursor
 2025-11-22T10:08:00 Wire beta feature flag
 2025-11-22T16:59:00 Cache graph query
+2025-11-22T10:24:00 Harden CORS
