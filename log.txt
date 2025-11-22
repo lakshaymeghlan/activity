@@ -835,3 +835,4 @@
 2025-11-21T15:29:00 Tidy worker-queue logging
 2025-11-21T09:19:00 Handle empty-state edge case
 2025-11-22T14:32:00 Fix pagination cursor
+2025-11-22T10:08:00 Wire beta feature flag
