@@ -842,3 +842,4 @@
 2025-11-25T10:11:00 Cache graph query
 2025-11-25T10:44:00 Harden CORS
 2025-11-25T12:06:00 Fix flaky scheduler test
+2025-11-26T10:56:00 Add health-check endpoint
