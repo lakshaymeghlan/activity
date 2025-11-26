@@ -844,3 +844,4 @@
 2025-11-25T12:06:00 Fix flaky scheduler test
 2025-11-26T10:56:00 Add health-check endpoint
 2025-11-26T17:05:00 Move constants to shared
+2025-11-26T10:24:00 Tidy worker-queue logging
