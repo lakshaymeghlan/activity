@@ -852,3 +852,4 @@
 2025-11-27T10:27:00 Batch DB writes
 2025-11-27T10:14:00 Rename ambiguous vars
 2025-11-27T15:18:00 Fix websocket reconnect race
+2025-11-27T15:41:00 Wire beta feature flag
