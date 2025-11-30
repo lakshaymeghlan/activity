@@ -854,3 +854,4 @@
 2025-11-27T15:18:00 Fix websocket reconnect race
 2025-11-27T15:41:00 Wire beta feature flag
 2025-11-30T13:38:00 Bump dependencies
+2025-11-30T15:13:00 Add lookup-column index
