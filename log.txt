@@ -865,3 +865,4 @@
 2025-12-03T12:08:00 Throttle resize listener
 2025-12-03T10:15:00 Batch DB writes
 2025-12-03T17:01:00 Lazy-load charts
+2025-12-03T10:11:00 Guard null user in header
