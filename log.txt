@@ -861,3 +861,4 @@
 2025-12-03T19:08:00 Handle empty-state edge case
 2025-12-03T19:24:00 Add lookup-column index
 2025-12-03T19:50:00 Rename ambiguous vars
+2025-12-03T19:43:00 Add health-check endpoint
