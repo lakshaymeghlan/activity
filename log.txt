@@ -868,3 +868,4 @@
 2025-12-03T10:11:00 Guard null user in header
 2025-12-03T14:32:00 Bump dependencies
 2025-12-03T19:52:00 Add column migration
+2025-12-04T15:52:00 Memoize selector
