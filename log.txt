@@ -873,3 +873,4 @@
 2025-12-04T18:28:00 Split route into modules
 2025-12-04T13:10:00 Add retry to API client
 2025-12-04T13:18:00 Validate ingest params
+2025-12-04T18:00:00 Improve validation errors
