@@ -869,3 +869,4 @@
 2025-12-03T14:32:00 Bump dependencies
 2025-12-03T19:52:00 Add column migration
 2025-12-04T15:52:00 Memoize selector
+2025-12-04T11:55:00 Add loading skeleton
