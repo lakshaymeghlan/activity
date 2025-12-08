@@ -879,3 +879,4 @@
 2025-12-05T12:09:00 Cache graph query
 2025-12-08T12:55:00 Polish dashboard layout
 2025-12-08T11:48:00 Add health-check endpoint
+2025-12-08T15:57:00 Fix dark-mode contrast
