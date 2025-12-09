@@ -882,3 +882,4 @@
 2025-12-08T15:57:00 Fix dark-mode contrast
 2025-12-09T11:15:00 Debounce search input
 2025-12-09T14:13:00 Wire beta feature flag
+2025-12-09T12:36:00 Normalize timestamps to UTC
