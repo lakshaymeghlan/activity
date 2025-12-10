@@ -891,3 +891,4 @@
 2025-12-10T14:16:00 Refactor auth middleware
 2025-12-10T14:19:00 Improve validation errors
 2025-12-10T18:55:00 Add lookup-column index
+2025-12-10T11:53:00 Throttle resize listener
