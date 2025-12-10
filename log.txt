@@ -893,3 +893,4 @@
 2025-12-10T18:55:00 Add lookup-column index
 2025-12-10T11:53:00 Throttle resize listener
 2025-12-10T10:20:00 Harden CORS
+2025-12-10T18:39:00 Lazy-load charts
