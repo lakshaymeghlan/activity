@@ -890,3 +890,4 @@
 2025-12-10T09:19:00 Fix pagination cursor
 2025-12-10T14:16:00 Refactor auth middleware
 2025-12-10T14:19:00 Improve validation errors
+2025-12-10T18:55:00 Add lookup-column index
