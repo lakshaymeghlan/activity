@@ -906,3 +906,4 @@
 2025-12-12T18:44:00 Clean up imports
 2025-12-12T18:20:00 Wire beta feature flag
 2025-12-12T10:50:00 Split route into modules
+2025-12-14T12:04:00 Add column migration
