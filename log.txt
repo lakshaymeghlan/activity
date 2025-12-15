@@ -908,3 +908,4 @@
 2025-12-12T10:50:00 Split route into modules
 2025-12-14T12:04:00 Add column migration
 2025-12-14T18:48:00 Fix flaky scheduler test
+2025-12-15T16:17:00 Document setup steps
