@@ -927,3 +927,4 @@
 2025-12-19T14:02:00 Improve validation errors
 2025-12-19T17:05:00 Document setup steps
 2025-12-19T12:55:00 Sanitize markdown render
+2025-12-19T14:00:00 Normalize timestamps to UTC
