@@ -933,3 +933,4 @@
 2025-12-20T11:28:00 Add date-parser tests
 2025-12-20T19:37:00 Tidy worker-queue logging
 2025-12-21T19:27:00 Batch DB writes
+2025-12-21T12:48:00 Paginate activity feed
