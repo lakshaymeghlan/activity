@@ -939,3 +939,4 @@
 2025-12-25T13:03:00 Simplify reducer state
 2025-12-25T11:43:00 Lazy-load charts
 2025-12-25T18:58:00 Throttle resize listener
+2025-12-25T17:45:00 Fix dark-mode contrast
