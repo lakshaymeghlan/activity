@@ -942,3 +942,4 @@
 2025-12-25T17:45:00 Fix dark-mode contrast
 2025-12-25T15:07:00 Wire beta feature flag
 2025-12-25T10:11:00 Debounce search input
+2025-12-28T13:00:00 Rename ambiguous vars
