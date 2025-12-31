@@ -953,3 +953,4 @@
 2025-12-30T13:16:00 Polish dashboard layout
 2025-12-30T14:27:00 Clean up imports
 2025-12-31T12:49:00 Remove dead code
+2025-12-31T17:26:00 Tidy worker-queue logging
