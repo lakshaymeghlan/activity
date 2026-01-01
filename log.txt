@@ -956,3 +956,4 @@
 2025-12-31T17:26:00 Tidy worker-queue logging
 2025-12-31T12:22:00 Handle fetch timeout
 2026-01-01T11:12:00 Paginate activity feed
+2026-01-01T19:17:00 Add lookup-column index
