@@ -959,3 +959,4 @@
 2026-01-01T19:17:00 Add lookup-column index
 2026-01-01T17:05:00 Extract config module
 2026-01-01T15:39:00 Simplify reducer state
+2026-01-01T14:35:00 Validate ingest params
