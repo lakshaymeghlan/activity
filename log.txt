@@ -966,3 +966,4 @@
 2026-01-02T10:11:00 Document setup steps
 2026-01-02T16:56:00 Cache graph query
 2026-01-02T18:56:00 Handle empty-state edge case
+2026-01-02T14:59:00 Fix pagination cursor
