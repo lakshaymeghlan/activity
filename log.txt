@@ -971,3 +971,4 @@
 2026-01-03T14:37:00 Normalize timestamps to UTC
 2026-01-03T16:44:00 Clean up imports
 2026-01-04T17:58:00 Sanitize markdown render
+2026-01-04T16:46:00 Fix flaky scheduler test
