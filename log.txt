@@ -976,3 +976,4 @@
 2026-01-04T19:26:00 Add retry to API client
 2026-01-04T17:33:00 Tidy worker-queue logging
 2026-01-05T16:26:00 Throttle resize listener
+2026-01-05T18:23:00 Fix dark-mode contrast
