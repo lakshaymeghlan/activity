@@ -977,3 +977,4 @@
 2026-01-04T17:33:00 Tidy worker-queue logging
 2026-01-05T16:26:00 Throttle resize listener
 2026-01-05T18:23:00 Fix dark-mode contrast
+2026-01-06T19:50:00 Debounce search input
