@@ -978,3 +978,4 @@
 2026-01-05T16:26:00 Throttle resize listener
 2026-01-05T18:23:00 Fix dark-mode contrast
 2026-01-06T19:50:00 Debounce search input
+2026-01-06T10:16:00 Sanitize markdown render
