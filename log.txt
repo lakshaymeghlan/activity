@@ -983,3 +983,4 @@
 2026-01-06T11:00:00 Paginate activity feed
 2026-01-08T18:45:00 Fix flaky scheduler test
 2026-01-08T15:26:00 Improve modal a11y
+2026-01-09T10:10:00 Improve validation errors
