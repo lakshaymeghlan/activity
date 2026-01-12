@@ -993,3 +993,4 @@
 2026-01-11T12:25:00 Wire beta feature flag
 2026-01-12T14:03:00 Add retry to API client
 2026-01-12T09:15:00 Rename ambiguous vars
+2026-01-12T17:45:00 Simplify reducer state
