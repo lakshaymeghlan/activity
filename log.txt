@@ -997,3 +997,4 @@
 2026-01-13T15:46:00 Batch DB writes
 2026-01-13T11:47:00 Add loading skeleton
 2026-01-13T10:34:00 Tidy worker-queue logging
+2026-01-13T11:29:00 Guard null user in header
