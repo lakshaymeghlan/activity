@@ -996,3 +996,4 @@
 2026-01-12T17:45:00 Simplify reducer state
 2026-01-13T15:46:00 Batch DB writes
 2026-01-13T11:47:00 Add loading skeleton
+2026-01-13T10:34:00 Tidy worker-queue logging
