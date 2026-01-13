@@ -998,3 +998,4 @@
 2026-01-13T11:47:00 Add loading skeleton
 2026-01-13T10:34:00 Tidy worker-queue logging
 2026-01-13T11:29:00 Guard null user in header
+2026-01-13T14:32:00 Improve validation errors
