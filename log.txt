@@ -999,3 +999,4 @@
 2026-01-13T10:34:00 Tidy worker-queue logging
 2026-01-13T11:29:00 Guard null user in header
 2026-01-13T14:32:00 Improve validation errors
+2026-01-15T16:29:00 Extract config module
