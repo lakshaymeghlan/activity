@@ -1013,3 +1013,4 @@
 2026-01-18T11:55:00 Batch DB writes
 2026-01-18T18:25:00 Add date-parser tests
 2026-01-18T17:07:00 Fix websocket reconnect race
+2026-01-18T12:09:00 Normalize timestamps to UTC
