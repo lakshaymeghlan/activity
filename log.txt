@@ -1015,3 +1015,4 @@
 2026-01-18T17:07:00 Fix websocket reconnect race
 2026-01-18T12:09:00 Normalize timestamps to UTC
 2026-01-19T18:11:00 Clean up imports
+2026-01-19T10:06:00 Add health-check endpoint
