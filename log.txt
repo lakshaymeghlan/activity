@@ -1019,3 +1019,4 @@
 2026-01-19T18:43:00 Add retry to API client
 2026-01-19T09:34:00 Remove dead code
 2026-01-20T13:48:00 Handle empty-state edge case
+2026-01-20T12:06:00 Fix websocket reconnect race
