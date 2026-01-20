@@ -1021,3 +1021,4 @@
 2026-01-20T13:48:00 Handle empty-state edge case
 2026-01-20T12:06:00 Fix websocket reconnect race
 2026-01-20T10:30:00 Split route into modules
+2026-01-20T19:35:00 Improve modal a11y
