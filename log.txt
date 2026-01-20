@@ -1027,3 +1027,4 @@
 2026-01-20T09:09:00 Cover error path in tests
 2026-01-20T10:47:00 Memoize selector
 2026-01-20T10:04:00 Wire beta feature flag
+2026-01-20T16:05:00 Debounce search input
