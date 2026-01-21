@@ -1030,3 +1030,4 @@
 2026-01-20T16:05:00 Debounce search input
 2026-01-20T09:41:00 Clean up imports
 2026-01-21T17:45:00 Add date-parser tests
+2026-01-21T11:42:00 Throttle resize listener
