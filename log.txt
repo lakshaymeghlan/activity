@@ -1033,3 +1033,4 @@
 2026-01-21T11:42:00 Throttle resize listener
 2026-01-23T17:27:00 Harden CORS
 2026-01-23T10:12:00 Fix pagination cursor
+2026-01-23T10:27:00 Lazy-load charts
