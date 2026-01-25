@@ -1039,3 +1039,4 @@
 2026-01-24T18:37:00 Rename ambiguous vars
 2026-01-24T17:07:00 Add column migration
 2026-01-24T12:46:00 Add column migration
+2026-01-25T18:17:00 Move constants to shared
