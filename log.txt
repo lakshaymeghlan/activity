@@ -1045,3 +1045,4 @@
 2026-01-26T18:54:00 Throttle resize listener
 2026-01-26T12:47:00 Add date-parser tests
 2026-01-26T14:53:00 Normalize timestamps to UTC
+2026-01-26T15:53:00 Improve validation errors
