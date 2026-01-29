@@ -1051,3 +1051,4 @@
 2026-01-27T13:45:00 Fix dark-mode contrast
 2026-01-27T17:14:00 Rename ambiguous vars
 2026-01-29T16:19:00 Cover error path in tests
+2026-01-29T11:15:00 Memoize selector
