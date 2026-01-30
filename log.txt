@@ -1053,3 +1053,4 @@
 2026-01-29T16:19:00 Cover error path in tests
 2026-01-29T11:15:00 Memoize selector
 2026-01-29T16:31:00 Cache graph query
+2026-01-30T11:13:00 Handle fetch timeout
