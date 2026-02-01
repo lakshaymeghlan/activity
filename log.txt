@@ -1061,3 +1061,4 @@
 2026-02-01T19:12:00 Remove dead code
 2026-02-01T13:31:00 Fix pagination cursor
 2026-02-01T14:51:00 Improve validation errors
+2026-02-01T11:35:00 Rename ambiguous vars
