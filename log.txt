@@ -1064,3 +1064,4 @@
 2026-02-01T11:35:00 Rename ambiguous vars
 2026-02-01T13:24:00 Add lookup-column index
 2026-02-02T15:44:00 Paginate activity feed
+2026-02-02T19:27:00 Add date-parser tests
