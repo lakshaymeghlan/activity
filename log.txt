@@ -1065,3 +1065,4 @@
 2026-02-01T13:24:00 Add lookup-column index
 2026-02-02T15:44:00 Paginate activity feed
 2026-02-02T19:27:00 Add date-parser tests
+2026-02-02T10:11:00 Add health-check endpoint
