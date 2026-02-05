@@ -1070,3 +1070,4 @@
 2026-02-03T16:18:00 Fix flaky scheduler test
 2026-02-03T19:06:00 Extract config module
 2026-02-05T13:07:00 Debounce search input
+2026-02-05T09:52:00 Add column migration
