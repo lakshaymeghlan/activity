@@ -1072,3 +1072,4 @@
 2026-02-05T13:07:00 Debounce search input
 2026-02-05T09:52:00 Add column migration
 2026-02-06T09:00:00 Lazy-load charts
+2026-02-06T19:03:00 Fix dark-mode contrast
