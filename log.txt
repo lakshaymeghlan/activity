@@ -1073,3 +1073,4 @@
 2026-02-05T09:52:00 Add column migration
 2026-02-06T09:00:00 Lazy-load charts
 2026-02-06T19:03:00 Fix dark-mode contrast
+2026-02-07T13:01:00 Sanitize markdown render
