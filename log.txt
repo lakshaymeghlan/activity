@@ -1087,3 +1087,4 @@
 2026-02-08T09:50:00 Wire beta feature flag
 2026-02-08T12:23:00 Sanitize markdown render
 2026-02-08T17:29:00 Add column migration
+2026-02-08T19:47:00 Add loading skeleton
