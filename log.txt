@@ -1090,3 +1090,4 @@
 2026-02-08T19:47:00 Add loading skeleton
 2026-02-09T19:02:00 Paginate activity feed
 2026-02-09T16:24:00 Improve validation errors
+2026-02-09T10:52:00 Move constants to shared
