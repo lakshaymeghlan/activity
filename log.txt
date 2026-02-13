@@ -1097,3 +1097,4 @@
 2026-02-12T10:50:00 Fix flaky scheduler test
 2026-02-12T12:54:00 Fix pagination cursor
 2026-02-13T09:13:00 Fix dark-mode contrast
+2026-02-13T16:18:00 Document setup steps
