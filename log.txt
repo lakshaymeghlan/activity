@@ -1109,3 +1109,4 @@
 2026-02-14T13:24:00 Tidy worker-queue logging
 2026-02-14T12:40:00 Add lookup-column index
 2026-02-14T15:57:00 Add retry to API client
+2026-02-14T12:10:00 Guard null user in header
