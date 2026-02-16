@@ -1115,3 +1115,4 @@
 2026-02-15T11:19:00 Lazy-load charts
 2026-02-15T19:53:00 Move constants to shared
 2026-02-16T19:20:00 Improve modal a11y
+2026-02-16T11:43:00 Paginate activity feed
