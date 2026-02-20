@@ -1127,3 +1127,4 @@
 2026-02-17T18:34:00 Document setup steps
 2026-02-18T19:47:00 Add loading skeleton
 2026-02-18T12:20:00 Bump dependencies
+2026-02-20T14:36:00 Move constants to shared
