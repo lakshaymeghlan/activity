@@ -1130,3 +1130,4 @@
 2026-02-20T14:36:00 Move constants to shared
 2026-02-20T18:55:00 Add health-check endpoint
 2026-02-20T17:26:00 Lazy-load charts
+2026-02-20T14:46:00 Polish dashboard layout
