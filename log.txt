@@ -1136,3 +1136,4 @@
 2026-02-22T16:41:00 Add date-parser tests
 2026-02-22T09:12:00 Normalize timestamps to UTC
 2026-02-22T14:39:00 Fix dark-mode contrast
+2026-02-22T13:30:00 Paginate activity feed
