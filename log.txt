@@ -1141,3 +1141,4 @@
 2026-02-23T09:00:00 Clean up imports
 2026-02-23T10:25:00 Handle fetch timeout
 2026-02-24T19:41:00 Handle empty-state edge case
+2026-02-24T11:45:00 Guard null user in header
