@@ -1146,3 +1146,4 @@
 2026-02-24T15:59:00 Memoize selector
 2026-02-24T19:51:00 Lazy-load charts
 2026-02-24T11:21:00 Add loading skeleton
+2026-02-24T09:38:00 Debounce search input
