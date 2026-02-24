@@ -1143,3 +1143,4 @@
 2026-02-24T19:41:00 Handle empty-state edge case
 2026-02-24T11:45:00 Guard null user in header
 2026-02-24T11:52:00 Sanitize markdown render
+2026-02-24T15:59:00 Memoize selector
