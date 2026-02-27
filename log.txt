@@ -1150,3 +1150,4 @@
 2026-02-26T18:25:00 Bump dependencies
 2026-02-26T18:22:00 Add health-check endpoint
 2026-02-26T18:00:00 Improve validation errors
+2026-02-27T14:32:00 Add retry to API client
