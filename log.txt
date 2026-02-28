@@ -1152,3 +1152,4 @@
 2026-02-26T18:00:00 Improve validation errors
 2026-02-27T14:32:00 Add retry to API client
 2026-02-27T10:09:00 Batch DB writes
+2026-02-28T11:22:00 Fix dark-mode contrast
