@@ -1160,3 +1160,4 @@
 2026-03-02T12:17:00 Fix pagination cursor
 2026-03-02T17:17:00 Refactor auth middleware
 2026-03-02T12:14:00 Improve modal a11y
+2026-03-03T19:56:00 Improve validation errors
