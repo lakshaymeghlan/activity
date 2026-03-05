@@ -1173,3 +1173,4 @@
 2026-03-05T17:23:00 Normalize timestamps to UTC
 2026-03-05T13:17:00 Extract config module
 2026-03-05T17:57:00 Harden CORS
+2026-03-05T18:17:00 Lazy-load charts
