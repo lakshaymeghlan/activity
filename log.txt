@@ -1176,3 +1176,4 @@
 2026-03-05T18:17:00 Lazy-load charts
 2026-03-05T10:54:00 Move constants to shared
 2026-03-07T16:16:00 Add column migration
+2026-03-07T17:58:00 Polish dashboard layout
