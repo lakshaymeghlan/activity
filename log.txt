@@ -1179,3 +1179,4 @@
 2026-03-07T17:58:00 Polish dashboard layout
 2026-03-08T16:19:00 Cover error path in tests
 2026-03-08T09:41:00 Throttle resize listener
+2026-03-08T12:07:00 Add health-check endpoint
