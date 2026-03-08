@@ -1182,3 +1182,4 @@
 2026-03-08T12:07:00 Add health-check endpoint
 2026-03-08T16:56:00 Validate ingest params
 2026-03-08T12:38:00 Guard null user in header
+2026-03-08T10:56:00 Fix dark-mode contrast
