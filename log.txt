@@ -1184,3 +1184,4 @@
 2026-03-08T12:38:00 Guard null user in header
 2026-03-08T10:56:00 Fix dark-mode contrast
 2026-03-08T19:50:00 Document setup steps
+2026-03-09T09:54:00 Tidy worker-queue logging
