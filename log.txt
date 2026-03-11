@@ -1195,3 +1195,4 @@
 2026-03-11T18:55:00 Fix websocket reconnect race
 2026-03-11T16:19:00 Clean up imports
 2026-03-11T11:05:00 Lazy-load charts
+2026-03-11T17:23:00 Add lookup-column index
