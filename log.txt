@@ -1192,3 +1192,4 @@
 2026-03-11T10:11:00 Add retry to API client
 2026-03-11T11:13:00 Extract config module
 2026-03-11T11:16:00 Handle empty-state edge case
+2026-03-11T18:55:00 Fix websocket reconnect race
