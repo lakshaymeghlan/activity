@@ -1202,3 +1202,4 @@
 2026-03-12T13:18:00 Remove dead code
 2026-03-12T10:16:00 Extract config module
 2026-03-12T15:13:00 Add retry to API client
+2026-03-12T13:37:00 Lazy-load charts
