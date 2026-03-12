@@ -1199,3 +1199,4 @@
 2026-03-12T18:27:00 Normalize timestamps to UTC
 2026-03-12T19:35:00 Refactor auth middleware
 2026-03-12T13:42:00 Fix flaky scheduler test
+2026-03-12T13:18:00 Remove dead code
