@@ -1206,3 +1206,4 @@
 2026-03-13T09:28:00 Refactor auth middleware
 2026-03-13T15:43:00 Handle empty-state edge case
 2026-03-14T19:00:00 Improve validation errors
+2026-03-14T18:48:00 Guard null user in header
