@@ -1208,3 +1208,4 @@
 2026-03-14T19:00:00 Improve validation errors
 2026-03-14T18:48:00 Guard null user in header
 2026-03-16T09:43:00 Cover error path in tests
+2026-03-16T18:17:00 Rename ambiguous vars
