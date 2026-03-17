@@ -1215,3 +1215,4 @@
 2026-03-17T18:47:00 Cache graph query
 2026-03-17T18:16:00 Document setup steps
 2026-03-17T19:10:00 Add health-check endpoint
+2026-03-17T14:24:00 Improve modal a11y
