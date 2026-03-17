@@ -1217,3 +1217,4 @@
 2026-03-17T19:10:00 Add health-check endpoint
 2026-03-17T14:24:00 Improve modal a11y
 2026-03-17T18:43:00 Wire beta feature flag
+2026-03-17T10:05:00 Fix websocket reconnect race
