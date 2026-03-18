@@ -1220,3 +1220,4 @@
 2026-03-17T10:05:00 Fix websocket reconnect race
 2026-03-17T15:46:00 Polish dashboard layout
 2026-03-18T17:54:00 Improve modal a11y
+2026-03-18T18:38:00 Cache graph query
