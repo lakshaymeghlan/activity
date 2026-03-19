@@ -1228,3 +1228,4 @@
 2026-03-19T18:54:00 Batch DB writes
 2026-03-19T13:58:00 Sanitize markdown render
 2026-03-19T14:11:00 Add date-parser tests
+2026-03-19T11:37:00 Normalize timestamps to UTC
