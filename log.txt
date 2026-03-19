@@ -1233,3 +1233,4 @@
 2026-03-19T16:24:00 Tidy worker-queue logging
 2026-03-19T10:46:00 Add column migration
 2026-03-19T11:22:00 Remove dead code
+2026-03-19T15:49:00 Handle empty-state edge case
