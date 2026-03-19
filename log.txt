@@ -1226,3 +1226,4 @@
 2026-03-19T11:27:00 Fix flaky scheduler test
 2026-03-19T16:51:00 Bump dependencies
 2026-03-19T18:54:00 Batch DB writes
+2026-03-19T13:58:00 Sanitize markdown render
