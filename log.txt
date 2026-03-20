@@ -1234,3 +1234,4 @@
 2026-03-19T10:46:00 Add column migration
 2026-03-19T11:22:00 Remove dead code
 2026-03-19T15:49:00 Handle empty-state edge case
+2026-03-20T10:47:00 Cover error path in tests
