@@ -1236,3 +1236,4 @@
 2026-03-19T15:49:00 Handle empty-state edge case
 2026-03-20T10:47:00 Cover error path in tests
 2026-03-20T16:28:00 Validate ingest params
+2026-03-20T14:48:00 Split route into modules
