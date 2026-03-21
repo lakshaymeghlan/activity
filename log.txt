@@ -1239,3 +1239,4 @@
 2026-03-20T14:48:00 Split route into modules
 2026-03-21T18:04:00 Fix pagination cursor
 2026-03-21T15:47:00 Add column migration
+2026-03-21T14:34:00 Refactor auth middleware
