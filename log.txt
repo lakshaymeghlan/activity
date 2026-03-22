@@ -1242,3 +1242,4 @@
 2026-03-21T14:34:00 Refactor auth middleware
 2026-03-21T11:02:00 Clean up imports
 2026-03-21T18:09:00 Extract config module
+2026-03-22T11:49:00 Wire beta feature flag
