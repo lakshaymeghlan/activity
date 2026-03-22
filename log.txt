@@ -1248,3 +1248,4 @@
 2026-03-22T14:39:00 Add date-parser tests
 2026-03-22T16:02:00 Tidy worker-queue logging
 2026-03-22T18:56:00 Lazy-load charts
+2026-03-22T15:52:00 Add lookup-column index
