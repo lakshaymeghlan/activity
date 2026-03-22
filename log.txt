@@ -1247,3 +1247,4 @@
 2026-03-22T10:43:00 Polish dashboard layout
 2026-03-22T14:39:00 Add date-parser tests
 2026-03-22T16:02:00 Tidy worker-queue logging
+2026-03-22T18:56:00 Lazy-load charts
