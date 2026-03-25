@@ -1251,3 +1251,4 @@
 2026-03-22T15:52:00 Add lookup-column index
 2026-03-23T09:27:00 Fix pagination cursor
 2026-03-23T14:13:00 Bump dependencies
+2026-03-25T17:18:00 Add loading skeleton
