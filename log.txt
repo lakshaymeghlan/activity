@@ -1254,3 +1254,4 @@
 2026-03-25T17:18:00 Add loading skeleton
 2026-03-25T12:36:00 Harden CORS
 2026-03-26T15:33:00 Debounce search input
+2026-03-26T16:40:00 Fix dark-mode contrast
