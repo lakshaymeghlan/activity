@@ -1258,3 +1258,4 @@
 2026-03-26T18:31:00 Handle fetch timeout
 2026-03-26T16:02:00 Fix flaky scheduler test
 2026-03-26T17:30:00 Batch DB writes
+2026-03-27T16:23:00 Add retry to API client
