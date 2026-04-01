@@ -1271,3 +1271,4 @@
 2026-03-31T18:33:00 Memoize selector
 2026-03-31T12:35:00 Fix websocket reconnect race
 2026-04-01T17:19:00 Polish dashboard layout
+2026-04-01T16:20:00 Cache graph query
