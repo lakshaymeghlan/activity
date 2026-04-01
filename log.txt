@@ -1270,3 +1270,4 @@
 2026-03-30T17:20:00 Move constants to shared
 2026-03-31T18:33:00 Memoize selector
 2026-03-31T12:35:00 Fix websocket reconnect race
+2026-04-01T17:19:00 Polish dashboard layout
