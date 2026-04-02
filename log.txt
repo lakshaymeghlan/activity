@@ -1275,3 +1275,4 @@
 2026-04-01T19:14:00 Fix flaky scheduler test
 2026-04-02T13:08:00 Simplify reducer state
 2026-04-02T12:40:00 Wire beta feature flag
+2026-04-02T11:33:00 Lazy-load charts
