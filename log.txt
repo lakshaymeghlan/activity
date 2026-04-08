@@ -1287,3 +1287,4 @@
 2026-04-06T19:12:00 Wire beta feature flag
 2026-04-07T12:55:00 Guard null user in header
 2026-04-07T12:39:00 Lazy-load charts
+2026-04-08T12:08:00 Cache graph query
