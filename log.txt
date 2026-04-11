@@ -1299,3 +1299,4 @@
 2026-04-10T18:34:00 Paginate activity feed
 2026-04-10T17:03:00 Tidy worker-queue logging
 2026-04-11T14:05:00 Normalize timestamps to UTC
+2026-04-11T17:08:00 Refactor auth middleware
