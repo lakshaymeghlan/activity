@@ -1305,3 +1305,4 @@
 2026-04-11T13:40:00 Improve modal a11y
 2026-04-11T12:01:00 Cover error path in tests
 2026-04-12T17:55:00 Wire beta feature flag
+2026-04-12T17:42:00 Handle fetch timeout
