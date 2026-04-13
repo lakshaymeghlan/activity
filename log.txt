@@ -1312,3 +1312,4 @@
 2026-04-12T14:56:00 Tidy worker-queue logging
 2026-04-13T10:51:00 Fix dark-mode contrast
 2026-04-13T11:36:00 Rename ambiguous vars
+2026-04-13T14:33:00 Add loading skeleton
