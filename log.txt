@@ -1318,3 +1318,4 @@
 2026-04-13T18:01:00 Add lookup-column index
 2026-04-14T09:17:00 Polish dashboard layout
 2026-04-14T19:02:00 Guard null user in header
+2026-04-15T17:04:00 Split route into modules
