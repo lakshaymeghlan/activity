@@ -1320,3 +1320,4 @@
 2026-04-14T19:02:00 Guard null user in header
 2026-04-15T17:04:00 Split route into modules
 2026-04-15T18:01:00 Memoize selector
+2026-04-16T09:41:00 Cover error path in tests
