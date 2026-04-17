@@ -1323,3 +1323,4 @@
 2026-04-16T09:41:00 Cover error path in tests
 2026-04-16T16:53:00 Guard null user in header
 2026-04-17T17:10:00 Add health-check endpoint
+2026-04-17T13:12:00 Fix flaky scheduler test
