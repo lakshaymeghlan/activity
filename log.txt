@@ -1325,3 +1325,4 @@
 2026-04-17T17:10:00 Add health-check endpoint
 2026-04-17T13:12:00 Fix flaky scheduler test
 2026-04-17T17:56:00 Document setup steps
+2026-04-18T15:59:00 Harden CORS
