@@ -1330,3 +1330,4 @@
 2026-04-18T15:25:00 Move constants to shared
 2026-04-19T13:20:00 Wire beta feature flag
 2026-04-19T13:41:00 Fix pagination cursor
+2026-04-19T12:20:00 Fix websocket reconnect race
