@@ -1337,3 +1337,4 @@
 2026-04-20T17:00:00 Add retry to API client
 2026-04-20T19:21:00 Rename ambiguous vars
 2026-04-20T11:40:00 Fix dark-mode contrast
+2026-04-20T16:43:00 Improve modal a11y
