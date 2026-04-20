@@ -1339,3 +1339,4 @@
 2026-04-20T11:40:00 Fix dark-mode contrast
 2026-04-20T16:43:00 Improve modal a11y
 2026-04-20T10:10:00 Debounce search input
+2026-04-20T12:15:00 Tidy worker-queue logging
