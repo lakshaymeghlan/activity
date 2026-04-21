@@ -1340,3 +1340,4 @@
 2026-04-20T16:43:00 Improve modal a11y
 2026-04-20T10:10:00 Debounce search input
 2026-04-20T12:15:00 Tidy worker-queue logging
+2026-04-21T18:55:00 Add date-parser tests
