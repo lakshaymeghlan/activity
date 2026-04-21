@@ -1343,3 +1343,4 @@
 2026-04-21T18:55:00 Add date-parser tests
 2026-04-21T12:03:00 Validate ingest params
 2026-04-21T15:36:00 Batch DB writes
+2026-04-21T15:06:00 Add retry to API client
