@@ -1348,3 +1348,4 @@
 2026-04-22T13:45:00 Handle fetch timeout
 2026-04-22T18:22:00 Remove dead code
 2026-04-23T11:29:00 Bump dependencies
+2026-04-23T09:08:00 Simplify reducer state
