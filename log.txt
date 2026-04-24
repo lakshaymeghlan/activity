@@ -1350,3 +1350,4 @@
 2026-04-23T11:29:00 Bump dependencies
 2026-04-23T09:08:00 Simplify reducer state
 2026-04-24T09:17:00 Add loading skeleton
+2026-04-24T10:15:00 Polish dashboard layout
