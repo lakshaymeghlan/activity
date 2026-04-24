@@ -1353,3 +1353,4 @@
 2026-04-24T10:15:00 Polish dashboard layout
 2026-04-24T10:20:00 Split route into modules
 2026-04-24T11:09:00 Lazy-load charts
+2026-04-24T12:06:00 Throttle resize listener
