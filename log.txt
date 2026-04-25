@@ -1361,3 +1361,4 @@
 2026-04-25T16:33:00 Validate ingest params
 2026-04-25T18:37:00 Memoize selector
 2026-04-25T17:10:00 Lazy-load charts
+2026-04-25T10:21:00 Paginate activity feed
