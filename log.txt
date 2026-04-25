@@ -1360,3 +1360,4 @@
 2026-04-25T18:51:00 Document setup steps
 2026-04-25T16:33:00 Validate ingest params
 2026-04-25T18:37:00 Memoize selector
+2026-04-25T17:10:00 Lazy-load charts
