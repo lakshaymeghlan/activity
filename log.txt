@@ -1368,3 +1368,4 @@
 2026-04-26T17:35:00 Debounce search input
 2026-04-26T12:35:00 Fix flaky scheduler test
 2026-04-26T15:42:00 Tidy worker-queue logging
+2026-04-26T09:21:00 Add retry to API client
