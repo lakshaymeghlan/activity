@@ -1370,3 +1370,4 @@
 2026-04-26T15:42:00 Tidy worker-queue logging
 2026-04-26T09:21:00 Add retry to API client
 2026-04-27T12:03:00 Polish dashboard layout
+2026-04-27T19:37:00 Handle empty-state edge case
