@@ -1381,3 +1381,4 @@
 2026-04-30T09:27:00 Clean up imports
 2026-04-30T11:36:00 Add column migration
 2026-05-01T14:45:00 Polish dashboard layout
+2026-05-01T18:31:00 Add loading skeleton
