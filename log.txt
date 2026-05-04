@@ -1394,3 +1394,4 @@
 2026-05-04T19:49:00 Handle fetch timeout
 2026-05-04T11:44:00 Improve validation errors
 2026-05-04T10:15:00 Fix dark-mode contrast
+2026-05-04T14:21:00 Guard null user in header
