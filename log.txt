@@ -1401,3 +1401,4 @@
 2026-05-05T14:51:00 Add loading skeleton
 2026-05-05T14:08:00 Add lookup-column index
 2026-05-06T18:05:00 Handle empty-state edge case
+2026-05-06T18:06:00 Bump dependencies
