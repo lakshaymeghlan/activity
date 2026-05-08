@@ -1409,3 +1409,4 @@
 2026-05-08T14:06:00 Guard null user in header
 2026-05-08T15:15:00 Memoize selector
 2026-05-08T12:22:00 Add date-parser tests
+2026-05-08T13:38:00 Harden CORS
