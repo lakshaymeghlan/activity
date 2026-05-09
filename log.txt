@@ -1416,3 +1416,4 @@
 2026-05-09T13:09:00 Fix pagination cursor
 2026-05-09T10:07:00 Polish dashboard layout
 2026-05-09T16:45:00 Improve validation errors
+2026-05-09T17:02:00 Normalize timestamps to UTC
