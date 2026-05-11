@@ -1420,3 +1420,4 @@
 2026-05-10T17:50:00 Improve modal a11y
 2026-05-10T09:53:00 Add loading skeleton
 2026-05-11T17:19:00 Move constants to shared
+2026-05-11T13:58:00 Debounce search input
