@@ -1445,3 +1445,4 @@
 2026-05-16T13:03:00 Simplify reducer state
 2026-05-16T11:39:00 Rename ambiguous vars
 2026-05-16T14:07:00 Normalize timestamps to UTC
+2026-05-16T12:01:00 Tidy worker-queue logging
