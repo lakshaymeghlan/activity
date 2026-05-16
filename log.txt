@@ -1447,3 +1447,4 @@
 2026-05-16T14:07:00 Normalize timestamps to UTC
 2026-05-16T12:01:00 Tidy worker-queue logging
 2026-05-16T14:47:00 Improve modal a11y
+2026-05-16T11:48:00 Polish dashboard layout
