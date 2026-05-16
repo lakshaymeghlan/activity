@@ -1440,3 +1440,4 @@
 2026-05-15T11:40:00 Tidy worker-queue logging
 2026-05-15T18:04:00 Move constants to shared
 2026-05-16T15:34:00 Remove dead code
+2026-05-16T10:42:00 Document setup steps
