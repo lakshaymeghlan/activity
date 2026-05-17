@@ -1451,3 +1451,4 @@
 2026-05-16T18:58:00 Debounce search input
 2026-05-16T09:43:00 Add loading skeleton
 2026-05-17T15:32:00 Fix pagination cursor
+2026-05-17T11:09:00 Add retry to API client
