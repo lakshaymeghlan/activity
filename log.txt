@@ -1450,3 +1450,4 @@
 2026-05-16T11:48:00 Polish dashboard layout
 2026-05-16T18:58:00 Debounce search input
 2026-05-16T09:43:00 Add loading skeleton
+2026-05-17T15:32:00 Fix pagination cursor
