@@ -1455,3 +1455,4 @@
 2026-05-17T14:39:00 Add column migration
 2026-05-17T12:31:00 Handle fetch timeout
 2026-05-17T19:57:00 Paginate activity feed
+2026-05-17T09:04:00 Add lookup-column index
