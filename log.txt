@@ -1461,3 +1461,4 @@
 2026-05-18T15:42:00 Add lookup-column index
 2026-05-18T12:49:00 Split route into modules
 2026-05-18T13:36:00 Cache graph query
+2026-05-18T19:05:00 Improve validation errors
