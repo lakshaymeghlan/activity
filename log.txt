@@ -1458,3 +1458,4 @@
 2026-05-17T09:04:00 Add lookup-column index
 2026-05-18T15:23:00 Guard null user in header
 2026-05-18T17:51:00 Refactor auth middleware
+2026-05-18T15:42:00 Add lookup-column index
