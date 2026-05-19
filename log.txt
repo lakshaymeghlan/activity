@@ -1466,3 +1466,4 @@
 2026-05-19T13:12:00 Harden CORS
 2026-05-19T13:36:00 Remove dead code
 2026-05-19T13:16:00 Add date-parser tests
+2026-05-19T16:35:00 Guard null user in header
