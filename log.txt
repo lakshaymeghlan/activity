@@ -1468,3 +1468,4 @@
 2026-05-19T13:16:00 Add date-parser tests
 2026-05-19T16:35:00 Guard null user in header
 2026-05-19T12:17:00 Fix dark-mode contrast
+2026-05-19T18:57:00 Add loading skeleton
