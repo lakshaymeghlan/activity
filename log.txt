@@ -1469,3 +1469,4 @@
 2026-05-19T16:35:00 Guard null user in header
 2026-05-19T12:17:00 Fix dark-mode contrast
 2026-05-19T18:57:00 Add loading skeleton
+2026-05-20T18:06:00 Throttle resize listener
