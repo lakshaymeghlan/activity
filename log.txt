@@ -1471,3 +1471,4 @@
 2026-05-19T18:57:00 Add loading skeleton
 2026-05-20T18:06:00 Throttle resize listener
 2026-05-20T10:01:00 Improve modal a11y
+2026-05-20T11:53:00 Simplify reducer state
