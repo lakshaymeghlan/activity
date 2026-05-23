@@ -1485,3 +1485,4 @@
 2026-05-23T10:37:00 Add loading skeleton
 2026-05-23T18:58:00 Memoize selector
 2026-05-23T13:33:00 Lazy-load charts
+2026-05-23T14:29:00 Improve modal a11y
