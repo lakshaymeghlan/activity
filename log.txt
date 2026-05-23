@@ -1483,3 +1483,4 @@
 2026-05-23T09:55:00 Add retry to API client
 2026-05-23T13:22:00 Fix dark-mode contrast
 2026-05-23T10:37:00 Add loading skeleton
+2026-05-23T18:58:00 Memoize selector
