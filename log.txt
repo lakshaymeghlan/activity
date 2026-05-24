@@ -1487,3 +1487,4 @@
 2026-05-23T13:33:00 Lazy-load charts
 2026-05-23T14:29:00 Improve modal a11y
 2026-05-24T15:36:00 Sanitize markdown render
+2026-05-24T12:05:00 Rename ambiguous vars
