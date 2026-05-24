@@ -1491,3 +1491,4 @@
 2026-05-24T13:39:00 Cache graph query
 2026-05-24T12:27:00 Polish dashboard layout
 2026-05-24T14:51:00 Document setup steps
+2026-05-24T15:25:00 Throttle resize listener
