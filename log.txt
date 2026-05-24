@@ -1490,3 +1490,4 @@
 2026-05-24T12:05:00 Rename ambiguous vars
 2026-05-24T13:39:00 Cache graph query
 2026-05-24T12:27:00 Polish dashboard layout
+2026-05-24T14:51:00 Document setup steps
