@@ -1495,3 +1495,4 @@
 2026-05-25T16:07:00 Simplify reducer state
 2026-05-25T11:33:00 Move constants to shared
 2026-05-26T18:38:00 Cover error path in tests
+2026-05-26T12:03:00 Add date-parser tests
