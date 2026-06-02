@@ -1518,3 +1518,4 @@
 2026-06-01T18:16:00 Polish dashboard layout
 2026-06-01T14:03:00 Split route into modules
 2026-06-02T11:26:00 Improve modal a11y
+2026-06-02T11:08:00 Add column migration
