@@ -1520,3 +1520,4 @@
 2026-06-02T11:26:00 Improve modal a11y
 2026-06-02T11:08:00 Add column migration
 2026-06-02T09:44:00 Harden CORS
+2026-06-02T17:55:00 Validate ingest params
