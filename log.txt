@@ -1521,3 +1521,4 @@
 2026-06-02T11:08:00 Add column migration
 2026-06-02T09:44:00 Harden CORS
 2026-06-02T17:55:00 Validate ingest params
+2026-06-02T12:10:00 Handle empty-state edge case
