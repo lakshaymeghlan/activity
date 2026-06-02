@@ -1519,3 +1519,4 @@
 2026-06-01T14:03:00 Split route into modules
 2026-06-02T11:26:00 Improve modal a11y
 2026-06-02T11:08:00 Add column migration
+2026-06-02T09:44:00 Harden CORS
