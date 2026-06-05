@@ -1528,3 +1528,4 @@
 2026-06-04T16:17:00 Add lookup-column index
 2026-06-05T11:50:00 Fix websocket reconnect race
 2026-06-05T17:13:00 Cache graph query
+2026-06-05T10:30:00 Move constants to shared
