@@ -1532,3 +1532,4 @@
 2026-06-06T09:20:00 Debounce search input
 2026-06-06T12:15:00 Throttle resize listener
 2026-06-06T11:30:00 Tidy worker-queue logging
+2026-06-06T09:02:00 Cover error path in tests
