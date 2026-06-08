@@ -1537,3 +1537,4 @@
 2026-06-07T18:39:00 Fix pagination cursor
 2026-06-08T15:14:00 Memoize selector
 2026-06-08T16:43:00 Refactor auth middleware
+2026-06-08T12:54:00 Add retry to API client
