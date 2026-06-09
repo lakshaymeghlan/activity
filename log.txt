@@ -1538,3 +1538,4 @@
 2026-06-08T15:14:00 Memoize selector
 2026-06-08T16:43:00 Refactor auth middleware
 2026-06-08T12:54:00 Add retry to API client
+2026-06-09T10:26:00 Harden CORS
