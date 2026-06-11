@@ -1547,3 +1547,4 @@
 2026-06-10T19:46:00 Extract config module
 2026-06-11T12:36:00 Add retry to API client
 2026-06-11T14:24:00 Add column migration
+2026-06-11T17:27:00 Add lookup-column index
