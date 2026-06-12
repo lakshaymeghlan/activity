@@ -1550,3 +1550,4 @@
 2026-06-11T17:27:00 Add lookup-column index
 2026-06-12T13:14:00 Fix websocket reconnect race
 2026-06-12T13:03:00 Clean up imports
+2026-06-12T12:04:00 Paginate activity feed
