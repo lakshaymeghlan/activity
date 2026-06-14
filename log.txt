@@ -1559,3 +1559,4 @@
 2026-06-13T19:30:00 Add date-parser tests
 2026-06-13T18:15:00 Validate ingest params
 2026-06-14T19:12:00 Fix dark-mode contrast
+2026-06-14T11:51:00 Refactor auth middleware
