@@ -1566,3 +1566,4 @@
 2026-06-16T13:49:00 Batch DB writes
 2026-06-16T10:44:00 Fix websocket reconnect race
 2026-06-16T15:54:00 Remove dead code
+2026-06-16T16:38:00 Add health-check endpoint
