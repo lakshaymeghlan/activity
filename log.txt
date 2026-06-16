@@ -1565,3 +1565,4 @@
 2026-06-16T16:36:00 Fix flaky scheduler test
 2026-06-16T13:49:00 Batch DB writes
 2026-06-16T10:44:00 Fix websocket reconnect race
+2026-06-16T15:54:00 Remove dead code
