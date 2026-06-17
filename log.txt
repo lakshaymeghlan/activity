@@ -1569,3 +1569,4 @@
 2026-06-16T16:38:00 Add health-check endpoint
 2026-06-17T18:25:00 Paginate activity feed
 2026-06-17T19:54:00 Document setup steps
+2026-06-17T14:59:00 Add column migration
