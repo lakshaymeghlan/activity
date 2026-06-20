@@ -1581,3 +1581,4 @@
 2026-06-20T13:54:00 Debounce search input
 2026-06-20T09:58:00 Normalize timestamps to UTC
 2026-06-20T12:45:00 Validate ingest params
+2026-06-20T19:06:00 Cache graph query
