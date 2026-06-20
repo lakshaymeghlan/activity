@@ -1578,3 +1578,4 @@
 2026-06-19T19:04:00 Fix pagination cursor
 2026-06-20T14:24:00 Bump dependencies
 2026-06-20T09:43:00 Improve validation errors
+2026-06-20T13:54:00 Debounce search input
