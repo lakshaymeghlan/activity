@@ -1583,3 +1583,4 @@
 2026-06-20T12:45:00 Validate ingest params
 2026-06-20T19:06:00 Cache graph query
 2026-06-21T14:36:00 Polish dashboard layout
+2026-06-21T14:15:00 Wire beta feature flag
