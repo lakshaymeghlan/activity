@@ -1596,3 +1596,4 @@
 2026-06-23T10:00:00 Bump dependencies
 2026-06-23T10:59:00 Add column migration
 2026-06-24T16:33:00 Improve modal a11y
+2026-06-24T18:08:00 Add lookup-column index
