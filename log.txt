@@ -1598,3 +1598,4 @@
 2026-06-24T16:33:00 Improve modal a11y
 2026-06-24T18:08:00 Add lookup-column index
 2026-06-25T17:04:00 Add loading skeleton
+2026-06-25T12:22:00 Tidy worker-queue logging
