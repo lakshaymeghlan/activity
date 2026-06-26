@@ -1600,3 +1600,4 @@
 2026-06-25T17:04:00 Add loading skeleton
 2026-06-25T12:22:00 Tidy worker-queue logging
 2026-06-25T16:18:00 Memoize selector
+2026-06-26T10:51:00 Refactor auth middleware
