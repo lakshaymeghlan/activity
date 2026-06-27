@@ -1609,3 +1609,4 @@
 2026-06-27T16:26:00 Extract config module
 2026-06-27T17:19:00 Fix websocket reconnect race
 2026-06-27T12:03:00 Sanitize markdown render
+2026-06-27T16:07:00 Normalize timestamps to UTC
