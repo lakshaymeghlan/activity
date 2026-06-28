@@ -1618,3 +1618,4 @@
 2026-06-27T10:08:00 Split route into modules
 2026-06-28T10:44:00 Fix pagination cursor
 2026-06-28T14:01:00 Guard null user in header
+2026-06-28T12:16:00 Move constants to shared
