@@ -1623,3 +1623,4 @@
 2026-06-29T09:48:00 Fix pagination cursor
 2026-06-29T12:22:00 Improve validation errors
 2026-06-29T13:19:00 Validate ingest params
+2026-06-29T09:45:00 Paginate activity feed
