@@ -1621,3 +1621,4 @@
 2026-06-28T12:16:00 Move constants to shared
 2026-06-28T19:41:00 Normalize timestamps to UTC
 2026-06-29T09:48:00 Fix pagination cursor
+2026-06-29T12:22:00 Improve validation errors
