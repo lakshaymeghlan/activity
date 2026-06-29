@@ -1622,3 +1622,4 @@
 2026-06-28T19:41:00 Normalize timestamps to UTC
 2026-06-29T09:48:00 Fix pagination cursor
 2026-06-29T12:22:00 Improve validation errors
+2026-06-29T13:19:00 Validate ingest params
