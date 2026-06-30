@@ -1627,3 +1627,4 @@
 2026-06-29T18:30:00 Split route into modules
 2026-06-29T18:43:00 Handle empty-state edge case
 2026-06-30T09:22:00 Extract config module
+2026-06-30T09:30:00 Memoize selector
