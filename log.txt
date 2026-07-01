@@ -1629,3 +1629,4 @@
 2026-06-30T09:22:00 Extract config module
 2026-06-30T09:30:00 Memoize selector
 2026-07-01T19:08:00 Cache graph query
+2026-07-01T15:53:00 Add column migration
