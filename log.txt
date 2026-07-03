@@ -1634,3 +1634,4 @@
 2026-07-02T13:45:00 Remove dead code
 2026-07-03T12:37:00 Refactor auth middleware
 2026-07-03T13:27:00 Add health-check endpoint
+2026-07-03T15:37:00 Wire beta feature flag
