@@ -1643,3 +1643,4 @@
 2026-07-04T11:38:00 Normalize timestamps to UTC
 2026-07-05T13:31:00 Clean up imports
 2026-07-05T13:57:00 Add column migration
+2026-07-05T15:38:00 Document setup steps
