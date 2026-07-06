@@ -1648,3 +1648,4 @@
 2026-07-05T17:01:00 Rename ambiguous vars
 2026-07-05T18:18:00 Add date-parser tests
 2026-07-05T09:12:00 Wire beta feature flag
+2026-07-06T14:32:00 Sanitize markdown render
