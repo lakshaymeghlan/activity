@@ -1660,3 +1660,4 @@
 2026-07-10T10:32:00 Split route into modules
 2026-07-10T12:48:00 Cover error path in tests
 2026-07-10T19:59:00 Fix websocket reconnect race
+2026-07-11T16:42:00 Improve modal a11y
