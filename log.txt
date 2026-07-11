@@ -1662,3 +1662,4 @@
 2026-07-10T19:59:00 Fix websocket reconnect race
 2026-07-11T16:42:00 Improve modal a11y
 2026-07-11T09:10:00 Debounce search input
+2026-07-11T16:51:00 Wire beta feature flag
